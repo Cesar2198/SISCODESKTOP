@@ -1,0 +1,656 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sisco
+</name>
+</assembly>
+<members>
+<member name="P:Sisco.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sisco.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Sisco.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.PolizasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.FacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.SiniestrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.PolizasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.FacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.SiniestrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.PolizasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.FacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad.SiniestrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestralidad">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.PrimasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.ImagenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.AvisoCobroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.NotasCreditoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.DepositosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.DescuentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.PrimasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.ImagenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.AvisoCobroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.NotasCreditoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.DepositosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.DescuentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.PrimasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.ImagenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.AvisoCobroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.NotasCreditoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.DepositosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRepPrimas.DescuentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRepPrimas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.ImagenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosFacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosOtrosIngresosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosPagosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.EnviosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosAnulaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.CierresCajaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.TalonarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.ImagenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosFacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosOtrosIngresosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosPagosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.EnviosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosAnulaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.CierresCajaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.TalonarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos.ImagenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosFacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosOtrosIngresosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosPagosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos.EnviosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos.RecibosAnulaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos.CierresCajaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos.TalonarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsRecibos">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.SiniestrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.ImagenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.AseguradosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.DetalleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.GastosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.PagosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.BienesAseguradosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.RequisitosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.SiniestrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.ImagenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.AseguradosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.DetalleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.GastosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.PagosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.BienesAseguradosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.RequisitosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsSiniestros.SiniestrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestros.ImagenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestros.AseguradosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestros.DetalleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestros.GastosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestros.PagosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestros.BienesAseguradosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestros.RequisitosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsSiniestros">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.CorrespondenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.ImagenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.LlamadasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.CorrespondenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.ImagenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.LlamadasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.CorrespondenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.ImagenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia.LlamadasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsCorrespondencia">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesContactosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ImagenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesPolizasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesEspecialDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesCamposDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsClientes.OfertasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesContactosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ImagenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesPolizasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesEspecialRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesCamposRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsClientes.OfertasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesContactosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsClientes.ImagenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesPolizasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesEspecialRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsClientes.ClientesCamposRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsClientes.OfertasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsClientes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sisco.dsComisiones.ImagenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsComisiones.ComiProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsComisiones.EstadoCuentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsComisiones.EstadoCuentaMovDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsComisiones.ImagenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsComisiones.ComiProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsComisiones.EstadoCuentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsComisiones.EstadoCuentaMovRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsComisiones.ImagenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsComisiones.ComiProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsComisiones.EstadoCuentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsComisiones.EstadoCuentaMovRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsComisiones">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sisco.dsPolizas.ImagenesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.PolizasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.CondicionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.CertificadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.CoberturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.BienesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.DatosAutosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.BeneficiariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.CesionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.ImagenesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.PolizasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.CondicionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.CertificadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.CoberturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.BienesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.DatosAutosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.BeneficiariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.CesionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sisco.dsPolizas.ImagenesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas.PolizasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas.CondicionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas.CertificadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas.CoberturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas.BienesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas.DatosAutosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas.BeneficiariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas.CesionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sisco.dsPolizas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

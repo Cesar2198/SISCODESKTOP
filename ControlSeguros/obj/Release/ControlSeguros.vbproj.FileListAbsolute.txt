@@ -1,0 +1,598 @@
+D:\STI\SISCO3\ControlSeguros\bin\Release\Sisco.exe.config
+D:\STI\SISCO3\ControlSeguros\bin\Release\Sisco.exe
+D:\STI\SISCO3\ControlSeguros\bin\Release\Sisco.pdb
+D:\STI\SISCO3\ControlSeguros\bin\Release\Sisco.xml
+D:\STI\SISCO3\ControlSeguros\bin\Release\Conectividad.dll
+D:\STI\SISCO3\ControlSeguros\bin\Release\STIControles.dll
+D:\STI\SISCO3\ControlSeguros\bin\Release\stiFomularios.dll
+D:\STI\SISCO3\ControlSeguros\bin\Release\stiSISCO.dll
+D:\STI\SISCO3\ControlSeguros\bin\Release\Utilerias.dll
+D:\STI\SISCO3\ControlSeguros\bin\Release\Interop.SHDocVw.dll
+D:\STI\SISCO3\ControlSeguros\bin\Release\Interop.MSXML2.dll
+D:\STI\SISCO3\ControlSeguros\bin\Release\STIControles.pdb
+D:\STI\SISCO3\ControlSeguros\bin\Release\STIControles.xml
+D:\STI\SISCO3\ControlSeguros\bin\Release\Conectividad.pdb
+D:\STI\SISCO3\ControlSeguros\bin\Release\Conectividad.xml
+D:\STI\SISCO3\ControlSeguros\bin\Release\stiFomularios.pdb
+D:\STI\SISCO3\ControlSeguros\bin\Release\stiFomularios.xml
+D:\STI\SISCO3\ControlSeguros\bin\Release\Utilerias.pdb
+D:\STI\SISCO3\ControlSeguros\bin\Release\Utilerias.xml
+D:\STI\SISCO3\ControlSeguros\bin\Release\stiSISCO.pdb
+D:\STI\SISCO3\ControlSeguros\bin\Release\stiSISCO.xml
+D:\STI\SISCO3\ControlSeguros\obj\Release\ResolveAssemblyReference.cache
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaAC.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaCertificados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaCertReclamo.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaClientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaCondiciones.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaFacturas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaFacturasMovimientos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaPolizas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaRecibos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BusquedaSiniestros.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CierreCaja.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EnviosPago.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EnviosPagoMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EnviosPagoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RecibosAplicar.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstIngresos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstRecibosNoAplicados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repCierresCaja.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepIngresosCaja.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TalonariosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TalonariosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.Anulaciones.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.AvisosCobroEliminar.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.AvisosCobrosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CambioFactura.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.DepositosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.DepositosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.Facturacion.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.FacturacionNR.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.GestionesCarteraNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.GestionTelefonicaCartera.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.NotasAbonoMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.NotasAbonoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.NotasCreditoMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.NotasCreditoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.Pagos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PagosAnula.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PagosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstVencimientosTarjetas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepFacturasMatriz.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepPrimasPendientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepPrimasPendientesClientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PagosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstAnulaciones.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstEmisiones.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstPagos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstPrimasPendientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepDepositos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepEstadoCuentaPol.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepEstadosCuentaClientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepGestionesCartera.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstComiProductos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepComiComparativo.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepComiClientesVendedor.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ADRImpresionDocRecibidos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.AsignarFlujoInd.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.AsignarFlujoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CategoriaContactosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CategoriaContactosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CategoriasFlujoMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CategoriasFlujoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ChequesMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CiudadesMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CiudadesNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ConfirmaEntregaDocNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ContinuarFlujoMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ContinuarFlujoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.DesRutearDocumentoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.FinalizarFlujosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.Correspondencia.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CorrespondenciaNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.DepartamentosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.DepartamentosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EnvioDocumentoSimple.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.FlujosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.FlujosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.GeneracionDocumentos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ImpresionesCorrMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ImpresionesCorrNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.MunicipiosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.MunicipiosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.NuevoFlujo.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ReAsignarFlujoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RecibeDocumentoSimple.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RecibirDocumentos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RecibirDocumentosCheques.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RegistroLlamadas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ADRAnalisisDocRecibidos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstAgendaTrabajo.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstChequesIngreso.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstControlCorrespondencia.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstDocumentosDesruteados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstFlujos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstLlamadas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstMarcarCorrSalida.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstResumenCorrespondencia.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repCorrespondenciaSalida.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RutearDocumentosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RutearDocumentosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.UbicacionesMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.UbicacionesNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ZonasMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ZonasNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.SiniestralidadClientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ActualizarNumFacturas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ImportarClientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ImportarReclamos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ActualizarDeducibles.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CambiarNumeroPoliza.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CambiosEnCertificados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CertificadosCambiarNumero.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CGPolizasCierre.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CGPolizasCotizacion.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CGPolizasMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CGPolizasNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PolizasEliminar.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RecalcularAnexo.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RenovacionAutomatica.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstActividadesOfertas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstAnalisisPolizas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstAnalisisOfertas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstPolizasEmisiones.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstPolizasVencimiento.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepAnexosPoliza.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepGestionesOfertasRealizadas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepGestionesRealizadas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepGestionesPolizas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepRecuperacionMora.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepVencimientosTarjetas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CambioComision.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EstadosCuentaComiMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EstadosCuentaComiNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EstadosCuentaVendedoresMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EstadosCuentaVendedoresNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.MovimientosComiMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.MovimientosComiNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PagosAsegMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PagosAsegNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepComisiones.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TipoOperacionesComiMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TipoOperacionesComiNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ComisionGrafica.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EjecutivosMetas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EstadisticasPolizas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EstadisticaTecnica.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.MetasGenerar.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ProduccionClientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ProduccionGrafica.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ProduccionResumen.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.MetasMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.MetasNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.frmReportes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ImportarCertificados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ImportarFacturas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ImportarPolizas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CancelaPoliza.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ClientesMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ClientesNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ClientesTraslados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CondicionesEspMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CondicionesEspNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CPolizasCertificadosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CPolizasMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CPolizasNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.HPolizasCertificadosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.HPolizasMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.OfertasComparativo.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.OfertasComparativoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PlanesMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PlanesNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PolBuscarBienes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PolizasCertificadosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PolizasHistorico.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PolizasMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PolizasNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ReactivarPoliza.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RenovarPoliza.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstGestionesPolizas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepClientesAnalisis.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepClienteTarjetas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepGestionesPolizasRealizadas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repMovimientosPolizas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repOfertasPendientes.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepPolizasArchivosDigitales.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepPolizasCancela.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepPolizasEmite.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepPolizasVencer.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PolizasCertificadosEliminar.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TrasladoCertificados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.Principal.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RecibosAnulacion.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RecibosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RecibosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.frmRegistro.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.GruposMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.GruposNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.Login.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstServidores.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RepLog.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.UsuariosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.UsuariosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.CambiarNumeroReclamo.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.DeclaracionSiniestros.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.DiagnosticosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.DiagnosticosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EnviosSiniestrosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EnviosSiniestrosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.FormulariosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.FormulariosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PagoDeudores.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PagoSiniestros.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PlanSiniestrosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PlanSiniestrosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PreCertificacionesMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PreCertificacionesNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.PreLiquidacion.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.conReclamos.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstEntregaSinMensajero.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstGestionSiniestros.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstSiniestrosDet.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.LstSiniestrosPresentados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repDeudores.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repFrmSiniestros.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repGestionesSiniestros.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repGestionesSinRealizadas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repPreAutorizaciones.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repReclamosFechas.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repRegistroAsegurados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repReportesGM.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.repSeguimientoSinistros.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.SeguimientoSiniestros.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.SiniestroActClase.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.SiniestrosAnulacion.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.SiniestrosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.SiniestrosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.AseguradorasMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.AseguradorasNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BancosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.BancosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ContactosGeneralesMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ContactosGeneralesNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EstadosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.EstadosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.FormasPagoMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.FormasPagoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.GastosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.GastosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.Gestiones.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.NotificacionesMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.NotificacionesNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ParametrosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ParametrosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ParentescosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ParentescosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ProductosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ProductosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.ProductosTraslados.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RamosMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.RamosNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TipoGestionMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TipoGestionNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TipoPagoMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TipoPagoNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TiposCancelaMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TiposCancelaNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TipoVendedorMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.TipoVendedorNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.VendedoresMan.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.VendedoresNav.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.Resources.resources
+D:\STI\SISCO3\ControlSeguros\obj\Release\ControlSeguros.vbproj.GenerateResource.Cache
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.exe.licenses
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.exe
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.xml
+D:\STI\SISCO3\ControlSeguros\obj\Release\Sisco.pdb
+C:\Users\hjarm\Desktop\CD STI\Fuentes\ControlSeguros\bin\Release\Sisco.exe.config
+C:\Users\hjarm\Desktop\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.exe
+C:\Users\hjarm\Desktop\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.xml
+C:\Users\hjarm\Desktop\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Sisco.exe.config
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.exe
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Sisco.exe
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Sisco.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Sisco.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Conectividad.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\STIControles.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\stiFomularios.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\stiSISCO.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Utilerias.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\STIControles.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\STIControles.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Conectividad.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Conectividad.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\stiSISCO.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\stiSISCO.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\stiFomularios.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\stiFomularios.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Utilerias.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\bin\Release\Utilerias.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaAC.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaCertificados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaCertReclamo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaClientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaCondiciones.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaFacturas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaFacturasMovimientos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaPolizas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaRecibos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BusquedaSiniestros.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CierreCaja.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EnviosPago.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EnviosPagoMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EnviosPagoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RecibosAplicar.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstIngresos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstRecibosNoAplicados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repCierresCaja.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepIngresosCaja.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TalonariosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TalonariosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Anulaciones.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.AvisosCobroEliminar.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.AvisosCobrosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CambioFactura.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.DepositosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.DepositosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Facturacion.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.FacturacionNR.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.GestionesCarteraNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.GestionTelefonicaCartera.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.NotasAbonoMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.NotasAbonoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.NotasCreditoMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.NotasCreditoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Pagos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PagosAnula.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PagosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstVencimientosTarjetas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepFacturasMatriz.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepPrimasPendientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepPrimasPendientesClientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PagosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstAnulaciones.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstEmisiones.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstPagos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstPrimasPendientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepDepositos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepEstadoCuentaPol.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepEstadosCuentaClientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepGestionesCartera.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstComiProductos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepComiComparativo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepComiClientesVendedor.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ADRImpresionDocRecibidos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.AsignarFlujoInd.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.AsignarFlujoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CategoriaContactosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CategoriaContactosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CategoriasFlujoMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CategoriasFlujoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ChequesMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CiudadesMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CiudadesNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ConfirmaEntregaDocNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ContinuarFlujoMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ContinuarFlujoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.DesRutearDocumentoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.FinalizarFlujosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Correspondencia.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CorrespondenciaNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.DepartamentosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.DepartamentosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EnvioDocumentoSimple.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.FlujosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.FlujosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.GeneracionDocumentos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ImpresionesCorrMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ImpresionesCorrNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.MunicipiosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.MunicipiosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.NuevoFlujo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ReAsignarFlujoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RecibeDocumentoSimple.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RecibirDocumentos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RecibirDocumentosCheques.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RegistroLlamadas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ADRAnalisisDocRecibidos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstAgendaTrabajo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstChequesIngreso.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstControlCorrespondencia.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstDocumentosDesruteados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstFlujos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstLlamadas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstMarcarCorrSalida.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstResumenCorrespondencia.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repCorrespondenciaSalida.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RutearDocumentosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RutearDocumentosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.UbicacionesMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.UbicacionesNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ZonasMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ZonasNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.SiniestralidadClientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ActualizarNumFacturas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ImportarClientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ImportarReclamos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ActualizarDeducibles.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CambiarNumeroPoliza.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CambiosEnCertificados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CertificadosCambiarNumero.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CGPolizasCierre.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CGPolizasCotizacion.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CGPolizasMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CGPolizasNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PolizasEliminar.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RecalcularAnexo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RenovacionAutomatica.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstActividadesOfertas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstAnalisisPolizas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstAnalisisOfertas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstPolizasEmisiones.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstPolizasVencimiento.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepAnexosPoliza.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepGestionesOfertasRealizadas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepGestionesRealizadas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepGestionesPolizas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepRecuperacionMora.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepVencimientosTarjetas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CambioComision.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EstadosCuentaComiMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EstadosCuentaComiNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EstadosCuentaVendedoresMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EstadosCuentaVendedoresNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.MovimientosComiMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.MovimientosComiNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PagosAsegMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PagosAsegNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepComisiones.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TipoOperacionesComiMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TipoOperacionesComiNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ComisionGrafica.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EjecutivosMetas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EstadisticasPolizas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EstadisticaTecnica.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.MetasGenerar.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ProduccionClientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ProduccionGrafica.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ProduccionResumen.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.MetasMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.MetasNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.frmReportes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ImportarCertificados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ImportarFacturas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ImportarPolizas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CancelaPoliza.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ClientesMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ClientesNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ClientesTraslados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CondicionesEspMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CondicionesEspNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CPolizasCertificadosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CPolizasMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CPolizasNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.HPolizasCertificadosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.HPolizasMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.OfertasComparativo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.OfertasComparativoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PlanesMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PlanesNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PolBuscarBienes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PolizasCertificadosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PolizasHistorico.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PolizasMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PolizasNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ReactivarPoliza.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RenovarPoliza.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstGestionesPolizas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepClientesAnalisis.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepClienteTarjetas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepGestionesPolizasRealizadas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repMovimientosPolizas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repOfertasPendientes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepPolizasArchivosDigitales.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepPolizasCancela.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepPolizasEmite.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepPolizasVencer.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PolizasCertificadosEliminar.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TrasladoCertificados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Principal.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RecibosAnulacion.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RecibosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RecibosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.frmRegistro.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.GruposMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.GruposNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Login.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstServidores.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RepLog.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.UsuariosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.UsuariosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.CambiarNumeroReclamo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.DeclaracionSiniestros.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.DiagnosticosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.DiagnosticosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EnviosSiniestrosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EnviosSiniestrosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.FormulariosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.FormulariosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PagoDeudores.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PagoSiniestros.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PlanSiniestrosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PlanSiniestrosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PreCertificacionesMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PreCertificacionesNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.PreLiquidacion.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.conReclamos.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstEntregaSinMensajero.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstGestionSiniestros.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstSiniestrosDet.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.LstSiniestrosPresentados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repDeudores.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repFrmSiniestros.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repGestionesSiniestros.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repGestionesSinRealizadas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repPreAutorizaciones.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repReclamosFechas.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repRegistroAsegurados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repReportesGM.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.repSeguimientoSinistros.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.SeguimientoSiniestros.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.SiniestroActClase.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.SiniestrosAnulacion.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.SiniestrosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.SiniestrosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.AseguradorasMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.AseguradorasNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BancosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.BancosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ContactosGeneralesMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ContactosGeneralesNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EstadosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.EstadosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.FormasPagoMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.FormasPagoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.GastosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.GastosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Gestiones.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.NotificacionesMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.NotificacionesNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ParametrosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ParametrosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ParentescosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ParentescosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ProductosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ProductosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.ProductosTraslados.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RamosMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.RamosNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TipoGestionMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TipoGestionNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TipoPagoMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TipoPagoNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TiposCancelaMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TiposCancelaNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TipoVendedorMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.TipoVendedorNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.VendedoresMan.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.VendedoresNav.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\ControlSeguros.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.exe.licenses

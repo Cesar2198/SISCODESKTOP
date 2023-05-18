@@ -1,0 +1,30 @@
+D:\STI\SISCO3\Controles\STIControles\bin\Debug\STIControles.dll
+D:\STI\SISCO3\Controles\STIControles\bin\Debug\STIControles.pdb
+D:\STI\SISCO3\Controles\STIControles\bin\Debug\STIControles.xml
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\ResolveAssemblyReference.cache
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.Resources.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.stiTextBox.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.vbproj.GenerateResource.Cache
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.dll.licenses
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.dll
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.xml
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.pdb
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.DropCalendario.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.stiComboBox.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.stiMemo.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Debug\STIControles.stiGridComboBox.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.DropCalendario.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.stiComboBox.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.stiGridComboBox.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.stiMemo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.stiTextBox.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.dll.licenses
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Debug\STIControles.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\bin\Debug\STIControles.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\bin\Debug\STIControles.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\bin\Debug\STIControles.xml

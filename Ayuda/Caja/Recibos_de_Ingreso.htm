@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="es-ES" />
+<meta name="generator" content="Adobe RoboHelp 9" />
+<title>Recibos de Ingreso</title>
+<link rel="StyleSheet" href="../default.css" type="text/css" />
+</head>
+<body>
+<h1>Recibos de Ingreso</h1>
+<p>Permite el ingreso de recibos provisionales de pago que los clientes realizan en la correduría y que serán posteriormente enviados a las aseguradoras para realizar el pago definitivo de las primas de seguros.</p>
+<p>&#160;</p>
+<p><img src="image1.jpg" alt="" style="border: none;" width="589" height="432" border="0" /></p>
+<p>&#160;</p>
+<p style="font-weight: bold;">DESCRIPCION DE LOS CAMPOS:</p>
+<p><span style="font-weight: bold;">Número de Recibo:</span> Este número es generado automáticamente al ingresar el recibo, es el número único con el que identificaremos el recibo que se almacena</p>
+<p><span style="font-weight: bold;">Total Recibo:</span> Indica el total de los conceptos de pago, el valor es generado con la suma de las facturas y de los otros ingresos, este campo es calculado automáticamente.</p>
+<p><span style="font-weight: bold;">Enviado a las Aseguradoras:</span> Indica el estado del envío del recibo a la aseguradora, los posibles estados son Pendiente y enviado, este campo permite que un recibo no sea enviado para pago más de una vez a las compañías de seguros.</p>
+<p><span style="font-weight: bold;">Estado del recibo:</span> Indica el estado actual del recibo, estos estados pueden ser Pendiente: que es cuando el recibo está en su etapa de grabado y no se ha confirmado el pago realizado en la aseguradora, Anulado: cuando el recibo ya no tendrá efecto y es anulado, no se enviará a las aseguradoras y no se acumulará en el cierre de caja, y Aplicado: cuando el recibo ya ha sido enviado a las aseguradoras y estos han dado por pagadas las primas, este campo indica que en SISCO también las facturas han sido pagadas.</p>
+<p><span style="font-weight: bold;">Usuario Graba:</span> Indica el usuario que elabora el recibo</p>
+<p><span style="font-weight: bold;">Usuario Anula:</span> Indica el usuario que anuló el recibo</p>
+<p><span style="font-weight: bold;">Motivo Anulación:</span> Define el motivo por el cual el recibo es anulado.</p>
+<p><span style="font-weight: bold;">Fecha de anulación:</span> Indica la fecha en la que hicieron la anulación.</p>
+<p><span style="font-weight: bold;">Fecha del recibo:</span> Indica la fecha en la que el recibo ha sido generado.</p>
+<p><span style="font-weight: bold;">NIT cliente:</span> Indica el código del cliente sobre el cual haremos el recibo</p>
+<p><span style="font-weight: bold;">Nombre Cliente:</span> Nombre del cliente del recibo</p>
+<p><span style="font-weight: bold;">Buscar Cliente:</span> Este botón nos permite buscar en SISCO el cliente por nombre, registro fiscal, dui o NIT. Al seleccionar un cliente se completan los campos NIT Cliente y Nombre Cliente</p>
+<p>&#160;</p>
+<p style="font-weight: bold;">Facturas/Créditos de Seguros:</p>
+<p>Esta sección permite agregar las facturas propiedad del cliente pendientes de pago, los datos presentados son: Factura, El producto de la factura, la póliza, el ramo, nombre del cliente y el total de la factura. &#160;</p>
+<p>&#160;</p>
+<p style="font-weight: bold;">Otros Ingresos:</p>
+<p>Permite el ingresos de movimientos del cliente cuando aún no se han emitido las facturas en las aseguradoras, el caso más útil es cuando el cliente proporciona un anticipo por una póliza que se emitirá, este ingreso es reportado a las aseguradoras como depósitos y el recibo al aplicarse también lleva el ingreso al sistema de depósito de SISCO, el cual posteriormente será utilizado para pagar las primas de seguros.</p>
+<p>&#160;</p>
+<p style="font-weight: bold;">Conceptos de pago:</p>
+<p>Permite especificar la manera en que el cliente está pagando las primas, en función del tipo de ingreso se solicita información complementaria, los tipos de pago son:</p>
+<p><span style="font-weight: bold;">1. Efectivo:</span> solo debe especificarse el monto en efectivo y a que aseguradora estará destinado</p>
+<p><span style="font-weight: bold;">2. Cheque:</span> el cliente ha emitido un cheque a la aseguradora para el pago de primas, se deben completar los campos de banco, Documento (No .cheque), No .Confirmación (si se realizan reservas) la aseguradora a la que se emite el cheque y el monto.</p>
+<p><span style="font-weight: bold;">3. Depósito Bancario:</span> cuando el cliente realiza un deposito a la cuenta de la aseguradora se pueden recibir estos documentos como comprobantes de pago, solicitará el Banco, el documento (No. Depósito), confirmación, aseguradora y monto.</p>
+<p><span style="font-weight: bold;">4. Tarjeta:</span> si la correduría cuenta con dispositivo para el cobro con tarjeta, se especifica el banco, documento (Boucher) confirmación (POS), aseguradora y monto.</p>
+<p><span style="font-weight: bold;">5. Nota de Crédito:</span> Si el cliente posee una nota de crédito a su favor emitido por la aseguradora y con ella desea pagar, se ingresa el documento, aseguradora y monto.</p>
+<p><span style="font-weight: bold;">6. Depósito en Aseguradora:</span> Si el cliente tiene saldo a favor en depósito en una aseguradora, se pude utilizar este para realizar el pago, el cliente debe tener saldo en el módulo de depósitos de cartera, el cual saldrá reflejado en el campo: total cliente depósito, especifique la aseguradora y monto. Al aplicarse el recibo se descargará el monto especificado del saldo a favor en depósito SISCO.</p>
+<p>NOTA: los recibos son utilizados cuando la correduría administra los pagos de los clientes, pero si el cliente realiza los pagos directamente en las aseguradoras no se deben emitir recibos, sino pagar las facturas desde el módulo de cartera.</p>
+<p>&#160;</p>
+<p style="font-weight: bold;">MODO DE OPERAR</p>
+<p>Creando un nuevo recibo, lo primero es especificar el cliente, presionando el botón buscar cliente, luego busque las facturas que desea pagar con el recibo, si no es factura puede agregarlo como otros ingresos lo cual siempre lleva a depósito el monto, luego especifique de qué modo está pagando el cliente y finalmente presione el botón Guardar, el cual guarda el recibo y emite el documento para imprimirlo.</p>
+</body>
+</html>

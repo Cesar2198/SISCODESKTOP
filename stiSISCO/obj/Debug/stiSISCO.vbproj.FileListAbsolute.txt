@@ -1,0 +1,34 @@
+D:\STI\SISCO3\stiSISCO\bin\Debug\stiSISCO.dll
+D:\STI\SISCO3\stiSISCO\bin\Debug\stiSISCO.pdb
+D:\STI\SISCO3\stiSISCO\bin\Debug\stiSISCO.xml
+D:\STI\SISCO3\stiSISCO\bin\Debug\Conectividad.dll
+D:\STI\SISCO3\stiSISCO\bin\Debug\Utilerias.dll
+D:\STI\SISCO3\stiSISCO\bin\Debug\Interop.MSXML2.dll
+D:\STI\SISCO3\stiSISCO\bin\Debug\Interop.SHDocVw.dll
+D:\STI\SISCO3\stiSISCO\bin\Debug\Conectividad.pdb
+D:\STI\SISCO3\stiSISCO\bin\Debug\Conectividad.xml
+D:\STI\SISCO3\stiSISCO\bin\Debug\Utilerias.pdb
+D:\STI\SISCO3\stiSISCO\bin\Debug\Utilerias.xml
+D:\STI\SISCO3\stiSISCO\obj\Debug\ResolveAssemblyReference.cache
+D:\STI\SISCO3\stiSISCO\obj\Debug\stiSISCO.Resources.resources
+D:\STI\SISCO3\stiSISCO\obj\Debug\stiSISCO.vbproj.GenerateResource.Cache
+D:\STI\SISCO3\stiSISCO\obj\Debug\stiSISCO.dll
+D:\STI\SISCO3\stiSISCO\obj\Debug\stiSISCO.xml
+D:\STI\SISCO3\stiSISCO\obj\Debug\stiSISCO.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Debug\stiSISCO.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Debug\stiSISCO.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Debug\stiSISCO.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Debug\stiSISCO.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Debug\stiSISCO.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\stiSISCO.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\stiSISCO.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\stiSISCO.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\Conectividad.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\Utilerias.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\Conectividad.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\Conectividad.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\Utilerias.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Debug\Utilerias.xml

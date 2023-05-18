@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rhpml majorversion="4" minorversion="0">
+	<folders>
+		<folder>
+			<name>Correspondencia</name>
+		</folder>
+		<folder>
+			<name>Siniestros</name>
+		</folder>
+		<folder>
+			<name>Estadisticas</name>
+		</folder>
+		<folder>
+			<name>Comisiones</name>
+		</folder>
+		<folder>
+			<name>Polizas</name>
+		</folder>
+		<folder>
+			<name>Cartera</name>
+		</folder>
+		<folder>
+			<name>Tablas_Generales</name>
+		</folder>
+		<folder>
+			<name>Seguridad</name>
+		</folder>
+	</folders>
+	<topics>
+		<topic>
+			<name>Inicio.htm</name>
+			<comments></comments>
+			<frameset>0</frameset>
+		</topic>
+	</topics>
+	<folders>
+		<folder>
+			<name>Caja</name>
+		</folder>
+		<folder>
+			<name>!Language!</name>
+		</folder>
+	</folders>
+</rhpml>

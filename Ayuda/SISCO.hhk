@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1.0">
+	<properties>
+	</properties>
+	<item name="Recibos">
+		<section name="Recibos de Ingreso" link="Caja\Recibos_de_Ingreso.htm">
+		</section>
+		<section name="Aplicación de Recibos" link="Caja\Aplicación_de_Recibos.htm">
+		</section>
+	</item>
+	<item name="Caja">
+		<section name="Recibos de Ingreso" link="Caja\Recibos_de_Ingreso.htm">
+		</section>
+	</item>
+	<item name="Recibos Temporales">
+		<section name="Recibos de Ingreso" link="Caja\Recibos_de_Ingreso.htm">
+		</section>
+	</item>
+	<item name="Envíos Aseguradora">
+		<section name="Envíos Aseguradora" link="Caja\Envíos_Aseguradora.htm">
+		</section>
+	</item>
+	<item name="Aplicaicón de Recibos">
+		<section name="Aplicación de Recibos" link="Caja\Aplicación_de_Recibos.htm">
+		</section>
+	</item>
+	<item name="Cierre de Caja">
+		<section name="Cierre de Caja" link="Caja\Cierre_de_Caja.htm">
+		</section>
+	</item>
+</index>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Utilerias
+</name>
+</assembly>
+<members>
+<member name="M:Utilerias.Genericas.dbStr(System.Object,System.Int32)">
+	<summary>
+ Rutina para formatear entradas de cadena a la base de datos
+ </summary>
+	<param name="Valor">Cadena que se desea ingresar a una base de datos</param>
+	<returns>Cadena formateada para ingresarse a una base de datos</returns>
+	<remarks></remarks>
+</member><member name="T:Utilerias.RoboHelpAPI.RoboHelp_Search">
+	<summary>
+ Class to Search the Project for a Query in a project
+ The search results include the Rank, Title, URL and summary about the resulting topic
+ 
+ The class contains a function to Search the Web Help Pro and Flash Help Pro
+ projects hosted on the RoboHelp Server specified
+ 
+ Public Function RH_SearchHelpPro( serverName As String, projectType As Integer, projectName As String, strQuestion As String, strArea As String) As Boolean
+ 
+ serverName
+        URL to the RoboHelp Server ("http://www.myurl.com/robohelp/rest")
+ 
+ projectType
+         specifying the type of project
+           WEB_HELP_PRO
+           FLASH_HELP_PRO
+ 
+ projectName
+         specifying the project to search 
+ 
+ strQuestion
+         the query string to search
+ 
+ strArea
+         the area where the project is published in
+ 
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,30 @@
+D:\STI\SISCO3\Utilerias\bin\Release\Utilerias.dll
+D:\STI\SISCO3\Utilerias\bin\Release\Utilerias.pdb
+D:\STI\SISCO3\Utilerias\bin\Release\Utilerias.xml
+D:\STI\SISCO3\Utilerias\bin\Release\Interop.MSXML2.dll
+D:\STI\SISCO3\Utilerias\bin\Release\Interop.SHDocVw.dll
+D:\STI\SISCO3\Utilerias\obj\Release\ResolveAssemblyReference.cache
+D:\STI\SISCO3\Utilerias\obj\Release\Interop.MSXML2.dll
+D:\STI\SISCO3\Utilerias\obj\Release\Interop.SHDocVw.dll
+D:\STI\SISCO3\Utilerias\obj\Release\Utilerias.vbproj.ResolveComReference.cache
+D:\STI\SISCO3\Utilerias\obj\Release\Utilerias.msgError.resources
+D:\STI\SISCO3\Utilerias\obj\Release\Utilerias.Resources.resources
+D:\STI\SISCO3\Utilerias\obj\Release\Utilerias.vbproj.GenerateResource.Cache
+D:\STI\SISCO3\Utilerias\obj\Release\Utilerias.dll
+D:\STI\SISCO3\Utilerias\obj\Release\Utilerias.xml
+D:\STI\SISCO3\Utilerias\obj\Release\Utilerias.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Release\Utilerias.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Release\Utilerias.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Release\Utilerias.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Release\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Release\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Utilerias.vbproj.ResolveComReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Utilerias.msgError.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Utilerias.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Utilerias.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Utilerias.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Utilerias.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Release\Utilerias.pdb

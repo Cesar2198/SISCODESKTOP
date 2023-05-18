@@ -1,0 +1,177 @@
+﻿[OPTIONS]
+Compiled File=SISCO.chm
+Title=SISCO
+Contents File=SISCO.hhc
+Index File=SISCO.hhk
+Default topic=Inicio.htm
+Default Window=
+Error log file=
+Display compile progress=No
+Display compile notes=No
+Full-text search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced decompilation=No
+Binary TOC=No
+Flat=No
+
+[WINDOWS]
+
+[FILES]
+Seguridad\Usuarios.htm
+Seguridad\Grupos_de_Usuarios.htm
+Seguridad\Importar_Pólizas.htm
+Seguridad\Parámetros_Generales.htm
+Seguridad\Unificar_Productos.htm
+Seguridad\Borrar_Póliza.htm
+Seguridad\Importar_Siniestros.htm
+Seguridad\Categorías_de_Flujos_de_Trabajo.htm
+Seguridad\Bitácora_de_Actividades.htm
+Seguridad\Importar_Certificados.htm
+Seguridad\Skins.htm
+Seguridad\Borrar_Certificado.htm
+Seguridad\Traslado_de_Clientes.htm
+Seguridad\Importar_Facturas.htm
+Inicio.htm
+Seguridad\Ciudades.htm
+Tablas_Generales\Tipos_de_Gastos.htm
+Tablas_Generales\Tipos_de_Gestiones.htm
+Tablas_Generales\Estado_de_Personas.htm
+Tablas_Generales\Parentescos.htm
+Tablas_Generales\Aseguradoras.htm
+Tablas_Generales\Notificaciones.htm
+Seguridad\Flujos_de_Trabajo_y_Correspondencia.htm
+Seguridad\Departamentos.htm
+Tablas_Generales\Formas_de_Pago.htm
+Seguridad\Zonas_y_Rutas.htm
+Seguridad\Municipios.htm
+Seguridad\Ubicaciones_de_Entrega.htm
+Tablas_Generales\Tipo_de_Vendedores.htm
+Tablas_Generales\Tipos_de_Pago.htm
+Tablas_Generales\Vendedores.htm
+Tablas_Generales\Productos.htm
+Tablas_Generales\Bancos.htm
+Tablas_Generales\Ramos.htm
+Caja\Aplicación_de_Recibos.htm
+Caja\Cierre_de_Caja.htm
+Caja\Anulación_de_Recibos.htm
+Polizas\Pólizas_de_Seguros.htm
+Caja\Envíos_Aseguradora.htm
+Cartera\Administración_de_Facturas.htm
+Cartera\Avisos_de_Cobro.htm
+Cartera\Registro_de_Pagos.htm
+Cartera\Anulación_de_Pagos.htm
+Cartera\Anulación_de_Facturas.htm
+Polizas\Registro_de_Clientes.htm
+Caja\Recibos_de_Ingreso.htm
+Cartera\Cambiar_Número_de_Factura.htm
+Polizas\Reporte_de_Pólizas_Emitidas.htm
+Polizas\Reporte_de_Clientes_con_Pago_a_Tarjetas.htm
+Polizas\Detalle_de_Clientes.htm
+Polizas\Detalle_de_Vencimientos.htm
+Polizas\Reporte_de_Ofertas_Pendientes.htm
+Polizas\Reporte_de_Pólizas_con_Archivos_Digitales.htm
+Polizas\Ofertas.htm
+Polizas\Planes_de_Seguros.htm
+Polizas\Comparativo_de_Ofertas.htm
+Polizas\Reporte_de_Pólizas_Canceladas.htm
+Polizas\Reporte_de_Pólizas_por_Vencer.htm
+Polizas\Renovación_de_Pólizas.htm
+Polizas\Cancelar_Póliza.htm
+Polizas\Reactivación_de_Pólizas.htm
+Polizas\Condiciones_Especiales.htm
+Polizas\Histórico_de_Pólizas.htm
+Cartera\Listado_de_Emisión_de_Facturas_Créditos.htm
+Cartera\Listado_de_Anulaciones_de_Facturas_Créditos.htm
+Cartera\Generar_Estados_Cuenta_Clientes.htm
+Cartera\Detalle_Depósito_Clientes.htm
+Cartera\Análisis_Recuperación_de_Mora.htm
+Cartera\Reporte_de_Primas_Pendientes.htm
+Cartera\Listado_de_Pagos_Emitidos.htm
+Polizas\Gestión_de_Pólizas.htm
+Polizas\Búsqueda_de_Bienes1.htm
+Polizas\Reporte_de_Gestiones_Pendientes.htm
+Polizas\Reporte_de_Gestiones_de_Pólizas_Realizadas.htm
+Cartera\Notas_de_Abono.htm
+Cartera\Notas_de_Crédito.htm
+Cartera\Registro_Depósitos.htm
+Cartera\Reporte_de_Primas_Pendientes_por_Cliente.htm
+Comisiones\Pagos_Aseguradoras.htm
+Comisiones\Operaciones_Comisiones.htm
+Comisiones\Movimientos_Comisiones.htm
+Comisiones\Estado_de_Cuenta.htm
+Cartera\Reporte_de_Gestiones_Realizadas.htm
+Cartera\Estado_de_Cuenta_Póliza.htm
+Cartera\Cartas_de_Vencimiento_de_Tarjetas_de_Crédito.htm
+Comisiones\Estado_de_Cuenta_Vendedores.htm
+Cartera\Reporte_de_Gestiones_Pendientes1.htm
+Comisiones\Resumen_de_Comisiones.htm
+Caja\Detalle_de_Envíos.htm
+Caja\Listados_de_Ingresos.htm
+Caja\Listado_de_Recibos_sin_Aplicar.htm
+Caja\Análisis_de_Ingresos.htm
+Caja\Reporte_de_Cierre_de_Caja.htm
+Cartera\Gestión_de_Cartera.htm
+Estadisticas\Gráfica_General.htm
+Comisiones\Cambio_de_Comisiones.htm
+Comisiones\Estadísticas_Comisiones.htm
+Estadisticas\Resumen_Producción.htm
+Estadisticas\Producción_Clientes.htm
+Estadisticas\Siniestralidad_Clientes.htm
+Estadisticas\Estadísticas_Pólizas.htm
+Estadisticas\Estadísticas_Metas.htm
+Estadisticas\Estadísticas_Técnicas.htm
+Comisiones\Listado_de_Comisiones_por_Producto.htm
+Siniestros\Declaración_de_Reclamos_de_Seguros.htm
+Estadisticas\Metas.htm
+Siniestros\Detalle_de_Siniestros.htm
+Siniestros\Pagos_de_Siniestros.htm
+Siniestros\Anulación_de_Siniestros.htm
+Estadisticas\Generar_Metas.htm
+Siniestros\Reporte_de_Gestiones_Pendientes2.htm
+Siniestros\Reporte_de_Gestiones_Realizadas1.htm
+Siniestros\Reporte_de_Saldos_Deudores_Varios.htm
+Siniestros\Formularios_Aseguradoras.htm
+Siniestros\Pago_Deudores.htm
+Siniestros\Planes_de_Siniestros.htm
+Siniestros\Pre-Certificaciones.htm
+Siniestros\Seguimiento_Siniestros.htm
+Siniestros\Calculo_de_Pre-Liquidación.htm
+Siniestros\Gestión_de_Siniestros.htm
+Siniestros\Reporte_de_Siniestro.htm
+Siniestros\Consulta_de_Siniestros.htm
+Siniestros\Registro_de_Asegurados_Póliza.htm
+Siniestros\Reclamos_de_Gastos_Médicos.htm
+Siniestros\Reporte_de_Pre-Certificaciones.htm
+Siniestros\Generar_Envíos.htm
+Correspondencia\Reporte_de_Correspondencia_de_Salida.htm
+Correspondencia\Análisis_de_Flujos_de_trabajo.htm
+Correspondencia\Documentos_no_Entregados.htm
+Siniestros\Reporte_de_Seguimientos.htm
+Correspondencia\Iniciar_un_Flujo.htm
+Correspondencia\Despacho_Simple.htm
+Correspondencia\Generar_Documentos.htm
+Correspondencia\Recepción_Simple.htm
+Correspondencia\Rutear_Documentos.htm
+Correspondencia\Anular_Documentos.htm
+Correspondencia\Continuar_Flujo.htm
+Correspondencia\Asignación_de_Flujos.htm
+Correspondencia\Re-Asignación_de_Flujos.htm
+Correspondencia\Detalle_de_Correspondencia.htm
+Correspondencia\Agenda_de_Trabajo.htm
+Correspondencia\Recepción_de_Documentos.htm
+Correspondencia\Resumen_de_Correspondencia.htm
+Correspondencia\Control_de_Correspondencia.htm
+
+SISCO.glo
+SISCO.brs
+[ALIAS]
+#include SISCO.ali
+
+[MAP]
+#include BSSCDefault.h
+
+[TEXT POPUPS]
+BSSCDefault.h
+
+

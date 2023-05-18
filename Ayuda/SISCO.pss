@@ -1,0 +1,78 @@
+﻿[Target:XML Output]
+SSLayoutType=8129
+[Target:Printed Documentation]
+SSLayoutType=7
+ActionID For Generation=1001
+ResultFileName=!SSL!\Printed_Documentation\Manual_SISCO.docx
+Remove Folder with prompt=1
+CreateProjectTime=08:39, March 27, 2012
+CreateProjectUser=eosegueda
+SupportMas_MPJ=1
+ViewFileName=!SSL!\Printed_Documentation\Manual_SISCO.docx
+Enable Result Dialog=1
+ResultStatus=0
+BuildTimeHi=30215207
+BuildTimeLow=1911980649
+[Target:Adobe AIR]
+SSLayoutType=512
+[Target:WebHelp Pro]
+SSLayoutType=32
+[Target:FlashHelp]
+SSLayoutType=2
+[Target:Microsoft HTML Help]
+SSLayoutType=1
+ActionID For Generation=1002
+ResultFileName=!SSL!\Microsoft_HTML_Help\SISCO.chm
+Remove Folder with prompt=1
+CreateProjectTime=07:56, March 27, 2012
+CreateProjectUser=eosegueda
+SupportMas_MPJ=1
+ViewFileName=!SSL!\Microsoft_HTML_Help\SISCO.chm
+ResultStatus=0
+BuildTimeHi=30237577
+BuildTimeLow=-531012222
+[Target:WebHelp]
+SSLayoutType=2
+ActionID For Generation=1002
+ResultFileName=!SSL!\WebHelp\SISCO.htm
+Remove Folder with prompt=1
+CreateProjectTime=
+CreateProjectUser=
+SupportMas_MPJ=1
+ViewFileName=!SSL!\WebHelp\SISCO.htm
+ResultStatus=0
+BuildTimeHi=30097570
+BuildTimeLow=-825223680
+[Target:FlashHelp Pro]
+SSLayoutType=2
+[PreSingleSource]
+Html Help Project=D:\STI\SISCO3\Ayuda\SISCO.hhp
+Table Of Content=D:\STI\SISCO3\Ayuda\SISCO.hhc
+Index=D:\STI\SISCO3\Ayuda\SISCO.hhk
+Topic Index=D:\STI\SISCO3\Ayuda\RHTopicKeyword$.hhk
+See Also Index=D:\STI\SISCO3\Ayuda\SISCO.hha
+Browse Sequence=D:\STI\SISCO3\Ayuda\SISCO.brs
+Glossary=D:\STI\SISCO3\Ayuda\SISCO.glo
+Topic Properties=D:\STI\SISCO3\Ayuda\SISCO.trs
+Active Folders=D:\STI\SISCO3\Ayuda\SISCO.trf
+Baggage Files=D:\STI\SISCO3\Ayuda\SISCO.trb
+Skin List=D:\STI\SISCO3\Ayuda\SISCO.trk
+Active Layout Names=D:\STI\SISCO3\Ayuda\SISCO.trl
+Template Files=D:\STI\SISCO3\Ayuda\SISCO.trt
+Project TOC List=D:\STI\SISCO3\Ayuda\SISCO.trtocl
+Project Index List=D:\STI\SISCO3\Ayuda\SISCO.tridxl
+Project Glossary List=D:\STI\SISCO3\Ayuda\SISCO.trglol
+Project CSS List=D:\STI\SISCO3\Ayuda\SISCO.trcss
+Project Variable Set List=D:\STI\SISCO3\Ayuda\SISCO.trvset
+Default Topic=D:\STI\SISCO3\Ayuda\Inicio.htm
+Build Tags0=593;Online | Print
+Build Tags=
+Build Expression=
+Language ID=3082
+Language Name=es_ES
+Language=D:\STI\SISCO3\Ayuda\!Language!\es_ES\RoboHHRE.lng
+Stop List=D:\STI\SISCO3\Ayuda\!Language!\es_ES\SISCO.stp
+External URL Settings=D:\STI\SISCO3\Ayuda\SearchOptions.xml
+[Layout Settings]
+MRULayoutCount=1
+MRULayout0=Microsoft HTML Help]09/18/11]0

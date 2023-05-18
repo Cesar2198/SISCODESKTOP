@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sisco", "Sisco.vdproj", "{46947210-E7B1-46F2-9D8F-B44524A72B25}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46947210-E7B1-46F2-9D8F-B44524A72B25}.Debug|Default.ActiveCfg = Debug
+		{46947210-E7B1-46F2-9D8F-B44524A72B25}.Debug|Default.Build.0 = Debug
+		{46947210-E7B1-46F2-9D8F-B44524A72B25}.Release|Default.ActiveCfg = Release
+		{46947210-E7B1-46F2-9D8F-B44524A72B25}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

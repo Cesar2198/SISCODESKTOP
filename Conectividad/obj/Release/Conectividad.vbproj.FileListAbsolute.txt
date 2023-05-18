@@ -1,0 +1,18 @@
+D:\STI\SISCO3\Conectividad\bin\Release\Conectividad.dll
+D:\STI\SISCO3\Conectividad\bin\Release\Conectividad.pdb
+D:\STI\SISCO3\Conectividad\bin\Release\Conectividad.xml
+D:\STI\SISCO3\Conectividad\obj\Release\ResolveAssemblyReference.cache
+D:\STI\SISCO3\Conectividad\obj\Release\Conectividad.Resources.resources
+D:\STI\SISCO3\Conectividad\obj\Release\Conectividad.vbproj.GenerateResource.Cache
+D:\STI\SISCO3\Conectividad\obj\Release\Conectividad.dll
+D:\STI\SISCO3\Conectividad\obj\Release\Conectividad.xml
+D:\STI\SISCO3\Conectividad\obj\Release\Conectividad.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\bin\Release\Conectividad.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\bin\Release\Conectividad.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\bin\Release\Conectividad.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\obj\Release\Conectividad.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\obj\Release\Conectividad.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\obj\Release\Conectividad.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\obj\Release\Conectividad.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Conectividad\obj\Release\Conectividad.pdb

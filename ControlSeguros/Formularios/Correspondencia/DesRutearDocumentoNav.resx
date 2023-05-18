@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnModificar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        c/1v14IFfwHnCO6XaEHHSAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="$this.ListaAliasCampos" xml:space="preserve">
+    <value>Flujo, Documento, Asegurado , Descripción, Fecha Impresión, Usuario Imprime, Fecha Envio, Recibe Correspondencia, Usuario Entrega, Dirección, Destinatario, Primer Ruteo, Último Ruteo, Número de Ruteos, Días Transcurridos Ruteo,Marcar</value>
+  </data>
+  <data name="$this.ListaCampos" xml:space="preserve">
+    <value>IdFlujoDoc, IdImpresion, isnull(IdOrigen,(select NombreCliente from FlujosDocumentos where FlujosDocumentos.IdFlujoDoc = FlujosDocumentosImpresiones.IdFlujoDoc)) , Descripcion, FechaImpresion, UsuarioImprime, FechaEnvio, RecibeCorrespondencia, IdUsuarioEntrega, DireccionDocumento, isnull(NombreDestinatario,(select NombreCliente from FlujosDocumentos where FlujosDocumentos.IdFlujoDoc =FlujosDocumentosImpresiones.IdFlujoDoc  )),(select min(FechaRuteo) from FlujosDocumentosImpresionesRuteos where IdFlujoDoc = FlujosDocumentosImpresiones.IdFlujoDoc and IdImpresion = FlujosDocumentosImpresiones.IdImpresion ) as PrimerRuteo, (select max(FechaRuteo) from FlujosDocumentosImpresionesRuteos where IdFlujoDoc = FlujosDocumentosImpresiones.IdFlujoDoc and IdImpresion = FlujosDocumentosImpresiones.IdImpresion ) as UltimoRuteo, (select count(*) from FlujosDocumentosImpresionesRuteos where IdFlujoDoc = FlujosDocumentosImpresiones.IdFlujoDoc and IdImpresion = FlujosDocumentosImpresiones.IdImpresion  and FlujosDocumentosImpresionesRuteos.FechaRuteo is not null) as NumRuteos, abs((select datediff(d,(select max(FechaRuteo) from FlujosDocumentosImpresionesRuteos where IdFlujoDoc = FlujosDocumentosImpresiones.IdFlujoDoc and IdImpresion = FlujosDocumentosImpresiones.IdImpresion) ,(select min(FechaRuteo) from FlujosDocumentosImpresionesRuteos where IdFlujoDoc = FlujosDocumentosImpresiones.IdFlujoDoc and IdImpresion = FlujosDocumentosImpresiones.IdImpresion) ))) as DiasTranRuteo, cast(0 as bit) as Marcar</value>
+  </data>
+</root>

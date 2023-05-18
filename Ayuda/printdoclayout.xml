@@ -1,0 +1,194 @@
+﻿<?xml version="1.0"?>
+<!--Printed Documentation Layout-->
+<printdoclayout version="2">
+  <temphistory/>
+ <stylemapping>
+   <templatefile type="msword" filename="Style Mapping.dot"/>
+   <maps/>
+ </stylemapping>
+ <tocstructure>
+   <page name="Inicio" topic="Inicio.htm" flags="0" topicid="-1"/>
+  <chapter name="Seguridad">
+    <page name="Parámetros Generales" topic="Seguridad\Parámetros_Generales.htm" flags="0" topicid="-1"/>
+    <page name="Bitácora de Actividades" topic="Seguridad\Bitácora_de_Actividades.htm" flags="0" topicid="-1"/>
+    <page name="Skins" topic="Seguridad\Skins.htm" flags="0" topicid="-1"/>
+    <page name="Grupos de Usuarios" topic="Seguridad\Grupos_de_Usuarios.htm" flags="0" topicid="-1"/>
+    <page name="Usuarios" topic="Seguridad\Usuarios.htm" flags="0" topicid="-1"/>
+    <page name="Borrar Póliza" topic="Seguridad\Borrar_Póliza.htm" flags="0" topicid="-1"/>
+    <page name="Borrar Certificado" topic="Seguridad\Borrar_Certificado.htm" flags="0" topicid="-1"/>
+    <page name="Traslado de Clientes" topic="Seguridad\Traslado_de_Clientes.htm" flags="0" topicid="-1"/>
+    <page name="Unificar Productos" topic="Seguridad\Unificar_Productos.htm" flags="0" topicid="-1"/>
+    <page name="Importar Pólizas" topic="Seguridad\Importar_Pólizas.htm" flags="0" topicid="-1"/>
+    <page name="Importar Siniestros" topic="Seguridad\Importar_Siniestros.htm" flags="0" topicid="-1"/>
+    <page name="Importar Certificados" topic="Seguridad\Importar_Certificados.htm" flags="0" topicid="-1"/>
+    <page name="Importar Facturas" topic="Seguridad\Importar_Facturas.htm" flags="0" topicid="-1"/>
+    <page name="Categorías de Flujos de Trabajo" topic="Seguridad\Categorías_de_Flujos_de_Trabajo.htm" flags="0" topicid="-1"/>
+    <page name="Flujos de Trabajo y Correspondencia" topic="Seguridad\Flujos_de_Trabajo_y_Correspondencia.htm" flags="0" topicid="-1"/>
+    <page name="Departamentos" topic="Seguridad\Departamentos.htm" flags="0" topicid="-1"/>
+    <page name="Municipios" topic="Seguridad\Municipios.htm" flags="0" topicid="-1"/>
+    <page name="Ciudades" topic="Seguridad\Ciudades.htm" flags="0" topicid="-1"/>
+    <page name="Zonas y Rutas" topic="Seguridad\Zonas_y_Rutas.htm" flags="0" topicid="-1"/>
+    <page name="Ubicaciones de Entrega" topic="Seguridad\Ubicaciones_de_Entrega.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Tablas Generales">
+    <page name="Aseguradoras" topic="Tablas_Generales\Aseguradoras.htm" flags="0" topicid="-1"/>
+    <page name="Estado de Personas" topic="Tablas_Generales\Estado_de_Personas.htm" flags="0" topicid="-1"/>
+    <page name="Parentescos" topic="Tablas_Generales\Parentescos.htm" flags="0" topicid="-1"/>
+    <page name="Tipo de Vendedores" topic="Tablas_Generales\Tipo_de_Vendedores.htm" flags="0" topicid="-1"/>
+    <page name="Tipos de Gastos" topic="Tablas_Generales\Tipos_de_Gastos.htm" flags="0" topicid="-1"/>
+    <page name="Notificaciones" topic="Tablas_Generales\Notificaciones.htm" flags="0" topicid="-1"/>
+    <page name="Tipos de Gestiones" topic="Tablas_Generales\Tipos_de_Gestiones.htm" flags="0" topicid="-1"/>
+    <page name="Vendedores" topic="Tablas_Generales\Vendedores.htm" flags="0" topicid="-1"/>
+    <page name="Formas de Pago" topic="Tablas_Generales\Formas_de_Pago.htm" flags="0" topicid="-1"/>
+    <page name="Tipos de Pago" topic="Tablas_Generales\Tipos_de_Pago.htm" flags="0" topicid="-1"/>
+    <page name="Bancos" topic="Tablas_Generales\Bancos.htm" flags="0" topicid="-1"/>
+    <page name="Ramos" topic="Tablas_Generales\Ramos.htm" flags="0" topicid="-1"/>
+    <page name="Productos" topic="Tablas_Generales\Productos.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Cartera">
+    <page name="Avisos de Cobro" topic="Cartera\Avisos_de_Cobro.htm" flags="0" topicid="-1"/>
+    <page name="Administración de Facturas" topic="Cartera\Administración_de_Facturas.htm" flags="0" topicid="-1"/>
+    <page name="Registro de Pagos" topic="Cartera\Registro_de_Pagos.htm" flags="0" topicid="-1"/>
+    <page name="Anulación de Pagos" topic="Cartera\Anulación_de_Pagos.htm" flags="0" topicid="-1"/>
+    <page name="Anulación de Facturas" topic="Cartera\Anulación_de_Facturas.htm" flags="0" topicid="-1"/>
+    <page name="Cambiar Número de Factura" topic="Cartera\Cambiar_Número_de_Factura.htm" flags="0" topicid="-1"/>
+    <page name="Notas de Abono" topic="Cartera\Notas_de_Abono.htm" flags="0" topicid="-1"/>
+    <page name="Notas de Crédito" topic="Cartera\Notas_de_Crédito.htm" flags="0" topicid="-1"/>
+    <page name="Registro Depósitos" topic="Cartera\Registro_Depósitos.htm" flags="0" topicid="-1"/>
+   <chapter name="Reportes de Control">
+     <page name="Reporte de Primas Pendientes" topic="Cartera\Reporte_de_Primas_Pendientes.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Primas Pendientes por Cliente" topic="Cartera\Reporte_de_Primas_Pendientes_por_Cliente.htm" flags="0" topicid="-1"/>
+     <page name="Listado de Pagos Emitidos" topic="Cartera\Listado_de_Pagos_Emitidos.htm" flags="0" topicid="-1"/>
+     <page name="Listado de Emisión de Facturas/Créditos" topic="Cartera\Listado_de_Emisión_de_Facturas_Créditos.htm" flags="0" topicid="-1"/>
+     <page name="Listado de Anulaciones de Facturas/Créditos" topic="Cartera\Listado_de_Anulaciones_de_Facturas_Créditos.htm" flags="0" topicid="-1"/>
+     <page name="Generar Estados Cuenta Clientes" topic="Cartera\Generar_Estados_Cuenta_Clientes.htm" flags="0" topicid="-1"/>
+     <page name="Detalle Depósito Clientes" topic="Cartera\Detalle_Depósito_Clientes.htm" flags="0" topicid="-1"/>
+     <page name="Análisis Recuperación de Mora" topic="Cartera\Análisis_Recuperación_de_Mora.htm" flags="0" topicid="-1"/>
+     <page name="Estado de Cuenta Póliza" topic="Cartera\Estado_de_Cuenta_Póliza.htm" flags="0" topicid="-1"/>
+     <page name="Cartas de Vencimiento de Tarjetas de Crédito" topic="Cartera\Cartas_de_Vencimiento_de_Tarjetas_de_Crédito.htm" flags="0" topicid="-1"/>
+   </chapter>
+    <page name="Gestión de Cartera" topic="Cartera\Gestión_de_Cartera.htm" flags="0" topicid="-1"/>
+    <page name="Reporte de Gestiones Pendientes1" topic="Cartera\Reporte_de_Gestiones_Pendientes1.htm" flags="0" topicid="-1"/>
+    <page name="Reporte de Gestiones Realizadas" topic="Cartera\Reporte_de_Gestiones_Realizadas.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Caja">
+    <page name="Recibos de Ingreso" topic="Caja\Recibos_de_Ingreso.htm" flags="0" topicid="-1"/>
+    <page name="Anulación de Recibos" topic="Caja\Anulación_de_Recibos.htm" flags="0" topicid="-1"/>
+    <page name="Envíos Aseguradora" topic="Caja\Envíos_Aseguradora.htm" flags="0" topicid="-1"/>
+    <page name="Aplicación de Recibos" topic="Caja\Aplicación_de_Recibos.htm" flags="0" topicid="-1"/>
+    <page name="Cierre de Caja" topic="Caja\Cierre_de_Caja.htm" flags="0" topicid="-1"/>
+    <page name="Detalle de Envíos" topic="Caja\Detalle_de_Envíos.htm" flags="0" topicid="-1"/>
+   <chapter name="Reportes de Caja">
+     <page name="Listados de Ingresos" topic="Caja\Listados_de_Ingresos.htm" flags="0" topicid="-1"/>
+     <page name="Listado de Recibos sin Aplicar" topic="Caja\Listado_de_Recibos_sin_Aplicar.htm" flags="0" topicid="-1"/>
+     <page name="Análisis de Ingresos" topic="Caja\Análisis_de_Ingresos.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Cierre de Caja" topic="Caja\Reporte_de_Cierre_de_Caja.htm" flags="0" topicid="-1"/>
+   </chapter>
+  </chapter>
+  <chapter name="Pólizas">
+    <page name="Registro de Clientes" topic="Polizas\Registro_de_Clientes.htm" flags="0" topicid="-1"/>
+    <page name="Pólizas de Seguros" topic="Polizas\Pólizas_de_Seguros.htm" flags="0" topicid="-1"/>
+    <page name="Renovación de Pólizas" topic="Polizas\Renovación_de_Pólizas.htm" flags="0" topicid="-1"/>
+    <page name="Cancelar Póliza" topic="Polizas\Cancelar_Póliza.htm" flags="0" topicid="-1"/>
+    <page name="Reactivación de Pólizas" topic="Polizas\Reactivación_de_Pólizas.htm" flags="0" topicid="-1"/>
+    <page name="Condiciones Especiales" topic="Polizas\Condiciones_Especiales.htm" flags="0" topicid="-1"/>
+    <page name="Histórico de Pólizas" topic="Polizas\Histórico_de_Pólizas.htm" flags="0" topicid="-1"/>
+    <page name="Planes de Seguros" topic="Polizas\Planes_de_Seguros.htm" flags="0" topicid="-1"/>
+   <chapter name="Reportes de Control">
+     <page name="Reporte de Pólizas por Vencer" topic="Polizas\Reporte_de_Pólizas_por_Vencer.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Pólizas Canceladas" topic="Polizas\Reporte_de_Pólizas_Canceladas.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Pólizas Emitidas" topic="Polizas\Reporte_de_Pólizas_Emitidas.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Clientes con Pago a Tarjetas" topic="Polizas\Reporte_de_Clientes_con_Pago_a_Tarjetas.htm" flags="0" topicid="-1"/>
+     <page name="Detalle de Clientes" topic="Polizas\Detalle_de_Clientes.htm" flags="0" topicid="-1"/>
+     <page name="Detalle de Vencimientos" topic="Polizas\Detalle_de_Vencimientos.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Ofertas Pendientes" topic="Polizas\Reporte_de_Ofertas_Pendientes.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Pólizas con Archivos Digitales" topic="Polizas\Reporte_de_Pólizas_con_Archivos_Digitales.htm" flags="0" topicid="-1"/>
+   </chapter>
+    <page name="Ofertas" topic="Polizas\Ofertas.htm" flags="0" topicid="-1"/>
+    <page name="Comparativo de Ofertas" topic="Polizas\Comparativo_de_Ofertas.htm" flags="0" topicid="-1"/>
+    <page name="Búsqueda de Bienes" topic="Polizas\Búsqueda_de_Bienes1.htm" flags="0" topicid="-1"/>
+    <page name="Gestión de Pólizas" topic="Polizas\Gestión_de_Pólizas.htm" flags="0" topicid="-1"/>
+    <page name="Reporte de Gestiones Pendientes" topic="Polizas\Reporte_de_Gestiones_Pendientes.htm" flags="0" topicid="-1"/>
+    <page name="Reporte de Gestiones de Pólizas Realizadas" topic="Polizas\Reporte_de_Gestiones_de_Pólizas_Realizadas.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Comisiones">
+    <page name="Resumen de Comisiones" topic="Comisiones\Resumen_de_Comisiones.htm" flags="0" topicid="-1"/>
+    <page name="Estado de Cuenta" topic="Comisiones\Estado_de_Cuenta.htm" flags="0" topicid="-1"/>
+    <page name="Estado de Cuenta Vendedores" topic="Comisiones\Estado_de_Cuenta_Vendedores.htm" flags="0" topicid="-1"/>
+    <page name="Pagos Aseguradoras" topic="Comisiones\Pagos_Aseguradoras.htm" flags="0" topicid="-1"/>
+    <page name="Operaciones Comisiones" topic="Comisiones\Operaciones_Comisiones.htm" flags="0" topicid="-1"/>
+    <page name="Movimientos Comisiones" topic="Comisiones\Movimientos_Comisiones.htm" flags="0" topicid="-1"/>
+    <page name="Cambio de Comisiones" topic="Comisiones\Cambio_de_Comisiones.htm" flags="0" topicid="-1"/>
+   <chapter name="Reporte de Comisiones">
+     <page name="Listado de Comisiones por Producto" topic="Comisiones\Listado_de_Comisiones_por_Producto.htm" flags="0" topicid="-1"/>
+   </chapter>
+    <page name="Estadísticas Comisiones" topic="Comisiones\Estadísticas_Comisiones.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Estadísticas">
+    <page name="Gráfica General" topic="Estadisticas\Gráfica_General.htm" flags="0" topicid="-1"/>
+    <page name="Resumen Producción" topic="Estadisticas\Resumen_Producción.htm" flags="0" topicid="-1"/>
+    <page name="Producción Clientes" topic="Estadisticas\Producción_Clientes.htm" flags="0" topicid="-1"/>
+    <page name="Siniestralidad Clientes" topic="Estadisticas\Siniestralidad_Clientes.htm" flags="0" topicid="-1"/>
+    <page name="Estadísticas Pólizas" topic="Estadisticas\Estadísticas_Pólizas.htm" flags="0" topicid="-1"/>
+    <page name="Estadísticas Metas" topic="Estadisticas\Estadísticas_Metas.htm" flags="0" topicid="-1"/>
+    <page name="Estadísticas Técnicas" topic="Estadisticas\Estadísticas_Técnicas.htm" flags="0" topicid="-1"/>
+    <page name="Metas" topic="Estadisticas\Metas.htm" flags="0" topicid="-1"/>
+    <page name="Generar Metas" topic="Estadisticas\Generar_Metas.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Siniestros">
+    <page name="Detalle de Siniestros" topic="Siniestros\Detalle_de_Siniestros.htm" flags="0" topicid="-1"/>
+    <page name="Declaración de Reclamos de Seguros" topic="Siniestros\Declaración_de_Reclamos_de_Seguros.htm" flags="0" topicid="-1"/>
+    <page name="Pagos de Siniestros" topic="Siniestros\Pagos_de_Siniestros.htm" flags="0" topicid="-1"/>
+    <page name="Anulación de Siniestros" topic="Siniestros\Anulación_de_Siniestros.htm" flags="0" topicid="-1"/>
+    <page name="Pago Deudores" topic="Siniestros\Pago_Deudores.htm" flags="0" topicid="-1"/>
+    <page name="Planes de Siniestros" topic="Siniestros\Planes_de_Siniestros.htm" flags="0" topicid="-1"/>
+    <page name="Generar Envíos" topic="Siniestros\Generar_Envíos.htm" flags="0" topicid="-1"/>
+    <page name="Pre-Certificaciones" topic="Siniestros\Pre-Certificaciones.htm" flags="0" topicid="-1"/>
+    <page name="Calculo de Pre-Liquidación" topic="Siniestros\Calculo_de_Pre-Liquidación.htm" flags="0" topicid="-1"/>
+    <page name="Formularios Aseguradoras" topic="Siniestros\Formularios_Aseguradoras.htm" flags="0" topicid="-1"/>
+   <chapter name="Reportes de Siniestros">
+     <page name="Reporte de Siniestro" topic="Siniestros\Reporte_de_Siniestro.htm" flags="0" topicid="-1"/>
+     <page name="Consulta de Siniestros" topic="Siniestros\Consulta_de_Siniestros.htm" flags="0" topicid="-1"/>
+     <page name="Registro de Asegurados Póliza" topic="Siniestros\Registro_de_Asegurados_Póliza.htm" flags="0" topicid="-1"/>
+     <page name="Reclamos de Gastos Médicos" topic="Siniestros\Reclamos_de_Gastos_Médicos.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Saldos Deudores Varios" topic="Siniestros\Reporte_de_Saldos_Deudores_Varios.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Pre-Certificaciones" topic="Siniestros\Reporte_de_Pre-Certificaciones.htm" flags="0" topicid="-1"/>
+   </chapter>
+    <page name="Gestión de Siniestros" topic="Siniestros\Gestión_de_Siniestros.htm" flags="0" topicid="-1"/>
+    <page name="Seguimiento Siniestros" topic="Siniestros\Seguimiento_Siniestros.htm" flags="0" topicid="-1"/>
+    <page name="Reporte de Gestiones Pendientes2" topic="Siniestros\Reporte_de_Gestiones_Pendientes2.htm" flags="0" topicid="-1"/>
+    <page name="Reporte de Gestiones Realizadas1" topic="Siniestros\Reporte_de_Gestiones_Realizadas1.htm" flags="0" topicid="-1"/>
+    <page name="Reporte de Seguimientos" topic="Siniestros\Reporte_de_Seguimientos.htm" flags="0" topicid="-1"/>
+  </chapter>
+  <chapter name="Correspondencia">
+    <page name="Iniciar un Flujo" topic="Correspondencia\Iniciar_un_Flujo.htm" flags="0" topicid="-1"/>
+    <page name="Despacho Simple" topic="Correspondencia\Despacho_Simple.htm" flags="0" topicid="-1"/>
+    <page name="Recepción Simple" topic="Correspondencia\Recepción_Simple.htm" flags="0" topicid="-1"/>
+    <page name="Generar Documentos" topic="Correspondencia\Generar_Documentos.htm" flags="0" topicid="-1"/>
+    <page name="Recepción de Documentos" topic="Correspondencia\Recepción_de_Documentos.htm" flags="0" topicid="-1"/>
+    <page name="Rutear Documentos" topic="Correspondencia\Rutear_Documentos.htm" flags="0" topicid="-1"/>
+    <page name="Documentos no Entregados" topic="Correspondencia\Documentos_no_Entregados.htm" flags="0" topicid="-1"/>
+    <page name="Anular Documentos" topic="Correspondencia\Anular_Documentos.htm" flags="0" topicid="-1"/>
+    <page name="Continuar Flujo" topic="Correspondencia\Continuar_Flujo.htm" flags="0" topicid="-1"/>
+    <page name="Asignación de Flujos" topic="Correspondencia\Asignación_de_Flujos.htm" flags="0" topicid="-1"/>
+    <page name="Re-Asignación de Flujos" topic="Correspondencia\Re-Asignación_de_Flujos.htm" flags="0" topicid="-1"/>
+    <page name="Detalle de Correspondencia" topic="Correspondencia\Detalle_de_Correspondencia.htm" flags="0" topicid="-1"/>
+    <page name="Agenda de Trabajo" topic="Correspondencia\Agenda_de_Trabajo.htm" flags="0" topicid="-1"/>
+   <chapter name="Reportes de Control">
+     <page name="Análisis de Flujos de trabajo" topic="Correspondencia\Análisis_de_Flujos_de_trabajo.htm" flags="0" topicid="-1"/>
+     <page name="Reporte de Correspondencia de Salida" topic="Correspondencia\Reporte_de_Correspondencia_de_Salida.htm" flags="0" topicid="-1"/>
+     <page name="Control de Correspondencia" topic="Correspondencia\Control_de_Correspondencia.htm" flags="0" topicid="-1"/>
+     <page name="Resumen de Correspondencia" topic="Correspondencia\Resumen_de_Correspondencia.htm" flags="0" topicid="-1"/>
+   </chapter>
+  </chapter>
+ </tocstructure>
+  <sectionhistory/>
+ <sectionlist>
+   <section type="defaulttitlepage" name="&lt;Default Title Page&gt;" url="" flags="0" topicid="-1"/>
+   <section type="toc" name="TOC" url="" flags="0" topicid="-1"/>
+   <section type="topics" name="Chapter Layout" url="" flags="0" topicid="-1"/>
+   <section type="glossary" name="Glossary" url="" flags="0" topicid="-1"/>
+   <section type="index" name="Index" url="" flags="0" topicid="-1"/>
+ </sectionlist>
+  <robopdfgeneratorsettings data="resIndex=3&amp;jpegImageQuality=75&amp;imageDPI=96&amp;quiet=0&amp;Quality=3&amp;resolution=96&amp;customResolution=300&amp;customImageDPI=96&amp;customJpegImageQuality=75&amp;pdfTemplateEnable=0&amp;pdfTemplateOnTop=0&amp;pdfTemplate=&amp;watermark=&amp;watermarkText=&amp;watermarkFontName=Arial&amp;watermarkFontSize=48&amp;watermarkStyle=0&amp;watermarkColor=90&amp;sd_permissionFlags=-64&amp;sd_enabled=0&amp;sd_keyLen=16&amp;sd_up=&amp;sd_op=&amp;"/>
+</printdoclayout>

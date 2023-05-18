@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aliaslist version="1.0">
+	<alias name="Importar_Facturas" link="Seguridad\Importar_Facturas.htm">
+	</alias>
+	<alias name="Reporte_de_Gestiones_Realizadas" link="Cartera\Reporte_de_Gestiones_Realizadas.htm">
+	</alias>
+	<alias name="Estadísticas_Comisiones" link="Comisiones\Estadísticas_Comisiones.htm">
+	</alias>
+	<alias name="Listado_de_Pagos_Emitidos" link="Cartera\Listado_de_Pagos_Emitidos.htm">
+	</alias>
+	<alias name="Zonas_y_Rutas" link="Seguridad\Zonas_y_Rutas.htm">
+	</alias>
+	<alias name="Declaración_de_Reclamos_de_Seguros" link="Siniestros\Declaración_de_Reclamos_de_Seguros.htm">
+	</alias>
+	<alias name="Reporte_de_Ofertas_Pendientes" link="Polizas\Reporte_de_Ofertas_Pendientes.htm">
+	</alias>
+	<alias name="Histórico_de_Pólizas" link="Polizas\Histórico_de_Pólizas.htm">
+	</alias>
+	<alias name="Gestión_de_Siniestros" link="Siniestros\Gestión_de_Siniestros.htm">
+	</alias>
+	<alias name="Planes_de_Seguros1" link="Polizas\Planes_de_Seguros.htm">
+	</alias>
+	<alias name="Detalle_de_Vencimientos1" link="Polizas\Detalle_de_Vencimientos.htm">
+	</alias>
+	<alias name="Búsqueda_de_Bienes1" link="Polizas\Búsqueda_de_Bienes1.htm">
+	</alias>
+	<alias name="Skins" link="Seguridad\Skins.htm">
+	</alias>
+	<alias name="Estadísticas_Metas" link="Estadisticas\Estadísticas_Metas.htm">
+	</alias>
+	<alias name="Traslado_de_Clientes" link="Seguridad\Traslado_de_Clientes.htm">
+	</alias>
+	<alias name="Vendedores" link="Tablas_Generales\Vendedores.htm">
+	</alias>
+	<alias name="Registro_de_Clientes1" link="Polizas\Registro_de_Clientes.htm">
+	</alias>
+	<alias name="Histórico_de_Pólizas1" link="Polizas\Histórico_de_Pólizas.htm">
+	</alias>
+	<alias name="Reporte_de_Pólizas_por_Vencer1" link="Polizas\Reporte_de_Pólizas_por_Vencer.htm">
+	</alias>
+	<alias name="Resumen_de_Comisiones" link="Comisiones\Resumen_de_Comisiones.htm">
+	</alias>
+	<alias name="Reporte_de_Pólizas_por_Vencer" link="Polizas\Reporte_de_Pólizas_por_Vencer.htm">
+	</alias>
+	<alias name="Reporte_de_Pre_Certificaciones" link="Siniestros\Reporte_de_Pre-Certificaciones.htm">
+	</alias>
+	<alias name="Envíos_Aseguradora" link="Caja\Envíos_Aseguradora.htm">
+	</alias>
+	<alias name="Registro_de_Pagos" link="Cartera\Registro_de_Pagos.htm">
+	</alias>
+	<alias name="Reporte_de_Cierre_de_Caja" link="Caja\Reporte_de_Cierre_de_Caja.htm">
+	</alias>
+	<alias name="Reporte_de_Pólizas_Canceladas" link="Polizas\Reporte_de_Pólizas_Canceladas.htm">
+	</alias>
+	<alias name="Listado_de_Anulaciones_de_Facturas_Créditos" link="Cartera\Listado_de_Anulaciones_de_Facturas_Créditos.htm">
+	</alias>
+	<alias name="Reporte_de_Gestiones_Realizadas1" link="Siniestros\Reporte_de_Gestiones_Realizadas1.htm">
+	</alias>
+	<alias name="Análisis_de_Flujos_de_trabajo" link="Correspondencia\Análisis_de_Flujos_de_trabajo.htm">
+	</alias>
+	<alias name="Reactivación_de_Pólizas" link="Polizas\Reactivación_de_Pólizas.htm">
+	</alias>
+	<alias name="Ofertas1" link="Polizas\Ofertas.htm">
+	</alias>
+	<alias name="Estado_de_Cuenta_Póliza" link="Cartera\Estado_de_Cuenta_Póliza.htm">
+	</alias>
+	<alias name="Estadísticas_Técnicas" link="Estadisticas\Estadísticas_Técnicas.htm">
+	</alias>
+	<alias name="Detalle_de_Correspondencia" link="Correspondencia\Detalle_de_Correspondencia.htm">
+	</alias>
+	<alias name="Despacho_Simple" link="Correspondencia\Despacho_Simple.htm">
+	</alias>
+	<alias name="Recepción_Simple" link="Correspondencia\Recepción_Simple.htm">
+	</alias>
+	<alias name="Registro_de_Clientes" link="Polizas\Registro_de_Clientes.htm">
+	</alias>
+	<alias name="Ciudades" link="Seguridad\Ciudades.htm">
+	</alias>
+	<alias name="Tipos_de_Gestiones" link="Tablas_Generales\Tipos_de_Gestiones.htm">
+	</alias>
+	<alias name="Seguimiento_Siniestros" link="Siniestros\Seguimiento_Siniestros.htm">
+	</alias>
+	<alias name="Condiciones_Especiales1" link="Polizas\Condiciones_Especiales.htm">
+	</alias>
+	<alias name="Gráfica_General" link="Estadisticas\Gráfica_General.htm">
+	</alias>
+	<alias name="Flujos_de_Trabajo_y_Correspondencia" link="Seguridad\Flujos_de_Trabajo_y_Correspondencia.htm">
+	</alias>
+	<alias name="Anular_Documentos" link="Correspondencia\Anular_Documentos.htm">
+	</alias>
+	<alias name="Comparativo_de_Ofertas1" link="Polizas\Comparativo_de_Ofertas.htm">
+	</alias>
+	<alias name="Parentescos" link="Tablas_Generales\Parentescos.htm">
+	</alias>
+	<alias name="Generar_Metas" link="Estadisticas\Generar_Metas.htm">
+	</alias>
+	<alias name="Reporte_de_Seguimientos" link="Siniestros\Reporte_de_Seguimientos.htm">
+	</alias>
+	<alias name="Productos" link="Tablas_Generales\Productos.htm">
+	</alias>
+	<alias name="Unificar_Productos" link="Seguridad\Unificar_Productos.htm">
+	</alias>
+	<alias name="Renovación_de_Pólizas" link="Polizas\Renovación_de_Pólizas.htm">
+	</alias>
+	<alias name="Comparativo_de_Ofertas" link="Polizas\Comparativo_de_Ofertas.htm">
+	</alias>
+	<alias name="Cartas_de_Vencimiento_de_Tarjetas_de_Crédito" link="Cartera\Cartas_de_Vencimiento_de_Tarjetas_de_Crédito.htm">
+	</alias>
+	<alias name="Control_de_Correspondencia" link="Correspondencia\Control_de_Correspondencia.htm">
+	</alias>
+	<alias name="Reporte_de_Correspondencia_de_Salida" link="Correspondencia\Reporte_de_Correspondencia_de_Salida.htm">
+	</alias>
+	<alias name="Documentos_no_Entregados" link="Correspondencia\Documentos_no_Entregados.htm">
+	</alias>
+	<alias name="Reporte_de_Pólizas_Emitidas" link="Polizas\Reporte_de_Pólizas_Emitidas.htm">
+	</alias>
+	<alias name="Anulación_de_Siniestros" link="Siniestros\Anulación_de_Siniestros.htm">
+	</alias>
+	<alias name="Parámetros_Generales" link="Seguridad\Parámetros_Generales.htm">
+	</alias>
+	<alias name="Generar_Envíos" link="Siniestros\Generar_Envíos.htm">
+	</alias>
+	<alias name="Notas_de_Abono" link="Cartera\Notas_de_Abono.htm">
+	</alias>
+	<alias name="Ofertas" link="Polizas\Ofertas.htm">
+	</alias>
+	<alias name="Ubicaciones_de_Entrega" link="Seguridad\Ubicaciones_de_Entrega.htm">
+	</alias>
+	<alias name="Resumen_de_Correspondencia" link="Correspondencia\Resumen_de_Correspondencia.htm">
+	</alias>
+	<alias name="Reporte_de_Pólizas_con_Archivos_Digitales1" link="Polizas\Reporte_de_Pólizas_con_Archivos_Digitales.htm">
+	</alias>
+	<alias name="Búsqueda_de_Bienes" link="Polizas\Búsqueda_de_Bienes1.htm">
+	</alias>
+	<alias name="Planes_de_Seguros" link="Polizas\Planes_de_Seguros.htm">
+	</alias>
+	<alias name="Formas_de_Pago" link="Tablas_Generales\Formas_de_Pago.htm">
+	</alias>
+	<alias name="Notificaciones" link="Tablas_Generales\Notificaciones.htm">
+	</alias>
+	<alias name="Listado_de_Emisión_de_Facturas_Créditos" link="Cartera\Listado_de_Emisión_de_Facturas_Créditos.htm">
+	</alias>
+	<alias name="Pago_Deudores" link="Siniestros\Pago_Deudores.htm">
+	</alias>
+	<alias name="Reporte_de_Gestiones_Pendientes11" link="Cartera\Reporte_de_Gestiones_Pendientes1.htm">
+	</alias>
+	<alias name="Bancos" link="Tablas_Generales\Bancos.htm">
+	</alias>
+	<alias name="Bitácora_de_Actividades" link="Seguridad\Bitácora_de_Actividades.htm">
+	</alias>
+	<alias name="Producción_Clientes" link="Estadisticas\Producción_Clientes.htm">
+	</alias>
+	<alias name="Reporte_de_Gestiones_de_Pólizas_Realizadas" link="Polizas\Reporte_de_Gestiones_de_Pólizas_Realizadas.htm">
+	</alias>
+	<alias name="Recepción_de_Documentos" link="Correspondencia\Recepción_de_Documentos.htm">
+	</alias>
+	<alias name="Reporte_de_Gestiones_Pendientes" link="Polizas\Reporte_de_Gestiones_Pendientes.htm">
+	</alias>
+	<alias name="Análisis_Recuperación_de_Mora" link="Cartera\Análisis_Recuperación_de_Mora.htm">
+	</alias>
+	<alias name="Anulación_de_Recibos" link="Caja\Anulación_de_Recibos.htm">
+	</alias>
+	<alias name="Reporte_de_Clientes_con_Pago_a_Tarjetas1" link="Polizas\Reporte_de_Clientes_con_Pago_a_Tarjetas.htm">
+	</alias>
+	<alias name="Reporte_de_Pólizas_con_Archivos_Digitales" link="Polizas\Reporte_de_Pólizas_con_Archivos_Digitales.htm">
+	</alias>
+	<alias name="Resumen_Producción" link="Estadisticas\Resumen_Producción.htm">
+	</alias>
+	<alias name="Gestión_de_Cartera" link="Cartera\Gestión_de_Cartera.htm">
+	</alias>
+	<alias name="Rutear_Documentos" link="Correspondencia\Rutear_Documentos.htm">
+	</alias>
+	<alias name="Metas" link="Estadisticas\Metas.htm">
+	</alias>
+	<alias name="Registro_de_Asegurados_Póliza" link="Siniestros\Registro_de_Asegurados_Póliza.htm">
+	</alias>
+	<alias name="Reporte_de_Primas_Pendientes_por_Cliente" link="Cartera\Reporte_de_Primas_Pendientes_por_Cliente.htm">
+	</alias>
+	<alias name="Estado_de_Cuenta" link="Comisiones\Estado_de_Cuenta.htm">
+	</alias>
+	<alias name="Operaciones_Comisiones" link="Comisiones\Operaciones_Comisiones.htm">
+	</alias>
+	<alias name="Listado_de_Recibos_sin_Aplicar" link="Caja\Listado_de_Recibos_sin_Aplicar.htm">
+	</alias>
+	<alias name="Registro_Depósitos" link="Cartera\Registro_Depósitos.htm">
+	</alias>
+	<alias name="Movimientos_Comisiones" link="Comisiones\Movimientos_Comisiones.htm">
+	</alias>
+	<alias name="Detalle_de_Siniestros" link="Siniestros\Detalle_de_Siniestros.htm">
+	</alias>
+	<alias name="Pólizas_de_Seguros" link="Polizas\Pólizas_de_Seguros.htm">
+	</alias>
+	<alias name="Importar_Siniestros" link="Seguridad\Importar_Siniestros.htm">
+	</alias>
+	<alias name="Siniestralidad_Clientes" link="Estadisticas\Siniestralidad_Clientes.htm">
+	</alias>
+	<alias name="Cancelar_Póliza1" link="Polizas\Cancelar_Póliza.htm">
+	</alias>
+	<alias name="Cierre_de_Caja" link="Caja\Cierre_de_Caja.htm">
+	</alias>
+	<alias name="Estado_de_Personas" link="Tablas_Generales\Estado_de_Personas.htm">
+	</alias>
+	<alias name="Grupos_de_Usuarios" link="Seguridad\Grupos_de_Usuarios.htm">
+	</alias>
+	<alias name="Generar_Estados_Cuenta_Clientes" link="Cartera\Generar_Estados_Cuenta_Clientes.htm">
+	</alias>
+	<alias name="Reporte_de_Gestiones_Pendientes1" link="Polizas\Reporte_de_Gestiones_Pendientes.htm">
+	</alias>
+	<alias name="Reporte_de_Saldos_Deudores_Varios" link="Siniestros\Reporte_de_Saldos_Deudores_Varios.htm">
+	</alias>
+	<alias name="Notas_de_Crédito" link="Cartera\Notas_de_Crédito.htm">
+	</alias>
+	<alias name="Reporte_de_Clientes_con_Pago_a_Tarjetas" link="Polizas\Reporte_de_Clientes_con_Pago_a_Tarjetas.htm">
+	</alias>
+	<alias name="Usuarios" link="Seguridad\Usuarios.htm">
+	</alias>
+	<alias name="Municipios" link="Seguridad\Municipios.htm">
+	</alias>
+	<alias name="Condiciones_Especiales" link="Polizas\Condiciones_Especiales.htm">
+	</alias>
+	<alias name="Consulta_de_Siniestros" link="Siniestros\Consulta_de_Siniestros.htm">
+	</alias>
+	<alias name="Generar_Documentos" link="Correspondencia\Generar_Documentos.htm">
+	</alias>
+	<alias name="Asignación_de_Flujos" link="Correspondencia\Asignación_de_Flujos.htm">
+	</alias>
+	<alias name="Aseguradoras" link="Tablas_Generales\Aseguradoras.htm">
+	</alias>
+	<alias name="Reporte_de_Gestiones_Pendientes2" link="Siniestros\Reporte_de_Gestiones_Pendientes2.htm">
+	</alias>
+	<alias name="Continuar_Flujo" link="Correspondencia\Continuar_Flujo.htm">
+	</alias>
+	<alias name="Avisos_de_Cobro" link="Cartera\Avisos_de_Cobro.htm">
+	</alias>
+	<alias name="Detalle_de_Vencimientos" link="Polizas\Detalle_de_Vencimientos.htm">
+	</alias>
+	<alias name="Borrar_Certificado" link="Seguridad\Borrar_Certificado.htm">
+	</alias>
+	<alias name="Reporte_de_Primas_Pendientes" link="Cartera\Reporte_de_Primas_Pendientes.htm">
+	</alias>
+	<alias name="Estado_de_Cuenta_Vendedores" link="Comisiones\Estado_de_Cuenta_Vendedores.htm">
+	</alias>
+	<alias name="Reporte_de_Gestiones_de_Pólizas_Realizadas1" link="Polizas\Reporte_de_Gestiones_de_Pólizas_Realizadas.htm">
+	</alias>
+	<alias name="Detalle_de_Envíos" link="Caja\Detalle_de_Envíos.htm">
+	</alias>
+	<alias name="Estadísticas_Pólizas" link="Estadisticas\Estadísticas_Pólizas.htm">
+	</alias>
+	<alias name="Pólizas_de_Seguros1" link="Polizas\Pólizas_de_Seguros.htm">
+	</alias>
+	<alias name="Ramos" link="Tablas_Generales\Ramos.htm">
+	</alias>
+	<alias name="Agenda_de_Trabajo" link="Correspondencia\Agenda_de_Trabajo.htm">
+	</alias>
+	<alias name="Tipos_de_Pago" link="Tablas_Generales\Tipos_de_Pago.htm">
+	</alias>
+	<alias name="Borrar_Póliza" link="Seguridad\Borrar_Póliza.htm">
+	</alias>
+	<alias name="Departamentos" link="Seguridad\Departamentos.htm">
+	</alias>
+	<alias name="Cambiar_Número_de_Factura" link="Cartera\Cambiar_Número_de_Factura.htm">
+	</alias>
+	<alias name="Administración_de_Facturas" link="Cartera\Administración_de_Facturas.htm">
+	</alias>
+	<alias name="Cambio_de_Comisiones" link="Comisiones\Cambio_de_Comisiones.htm">
+	</alias>
+	<alias name="Pre_Certificaciones" link="Siniestros\Pre-Certificaciones.htm">
+	</alias>
+	<alias name="Detalle_de_Clientes" link="Polizas\Detalle_de_Clientes.htm">
+	</alias>
+	<alias name="Gestión_de_Pólizas1" link="Polizas\Gestión_de_Pólizas.htm">
+	</alias>
+	<alias name="Reclamos_de_Gastos_Médicos" link="Siniestros\Reclamos_de_Gastos_Médicos.htm">
+	</alias>
+	<alias name="Importar_Certificados" link="Seguridad\Importar_Certificados.htm">
+	</alias>
+	<alias name="Pagos_Aseguradoras" link="Comisiones\Pagos_Aseguradoras.htm">
+	</alias>
+	<alias name="Re_Asignación_de_Flujos" link="Correspondencia\Re-Asignación_de_Flujos.htm">
+	</alias>
+	<alias name="Anulación_de_Pagos" link="Cartera\Anulación_de_Pagos.htm">
+	</alias>
+	<alias name="Detalle_de_Clientes1" link="Polizas\Detalle_de_Clientes.htm">
+	</alias>
+	<alias name="Reporte_de_Siniestro" link="Siniestros\Reporte_de_Siniestro.htm">
+	</alias>
+	<alias name="Listados_de_Ingresos" link="Caja\Listados_de_Ingresos.htm">
+	</alias>
+	<alias name="Análisis_de_Ingresos" link="Caja\Análisis_de_Ingresos.htm">
+	</alias>
+	<alias name="Categorías_de_Flujos_de_Trabajo" link="Seguridad\Categorías_de_Flujos_de_Trabajo.htm">
+	</alias>
+	<alias name="Aplicación_de_Recibos" link="Caja\Aplicación_de_Recibos.htm">
+	</alias>
+	<alias name="Reporte_de_Pólizas_Emitidas1" link="Polizas\Reporte_de_Pólizas_Emitidas.htm">
+	</alias>
+	<alias name="Reactivación_de_Pólizas1" link="Polizas\Reactivación_de_Pólizas.htm">
+	</alias>
+	<alias name="Cancelar_Póliza" link="Polizas\Cancelar_Póliza.htm">
+	</alias>
+	<alias name="Reporte_de_Ofertas_Pendientes1" link="Polizas\Reporte_de_Ofertas_Pendientes.htm">
+	</alias>
+	<alias name="Reporte_de_Pólizas_Canceladas1" link="Polizas\Reporte_de_Pólizas_Canceladas.htm">
+	</alias>
+	<alias name="Calculo_de_Pre_Liquidación" link="Siniestros\Calculo_de_Pre-Liquidación.htm">
+	</alias>
+	<alias name="Formularios_Aseguradoras" link="Siniestros\Formularios_Aseguradoras.htm">
+	</alias>
+	<alias name="Planes_de_Siniestros" link="Siniestros\Planes_de_Siniestros.htm">
+	</alias>
+	<alias name="Tipo_de_Vendedores" link="Tablas_Generales\Tipo_de_Vendedores.htm">
+	</alias>
+	<alias name="Gestión_de_Pólizas" link="Polizas\Gestión_de_Pólizas.htm">
+	</alias>
+	<alias name="Pagos_de_Siniestros" link="Siniestros\Pagos_de_Siniestros.htm">
+	</alias>
+	<alias name="Tipos_de_Gastos" link="Tablas_Generales\Tipos_de_Gastos.htm">
+	</alias>
+	<alias name="Detalle_Depósito_Clientes" link="Cartera\Detalle_Depósito_Clientes.htm">
+	</alias>
+	<alias name="Importar_Pólizas" link="Seguridad\Importar_Pólizas.htm">
+	</alias>
+	<alias name="Listado_de_Comisiones_por_Producto" link="Comisiones\Listado_de_Comisiones_por_Producto.htm">
+	</alias>
+	<alias name="Iniciar_un_Flujo" link="Correspondencia\Iniciar_un_Flujo.htm">
+	</alias>
+	<alias name="Anulación_de_Facturas" link="Cartera\Anulación_de_Facturas.htm">
+	</alias>
+	<alias name="Renovación_de_Pólizas1" link="Polizas\Renovación_de_Pólizas.htm">
+	</alias>
+	<alias name="Recibos_de_Ingreso" link="Caja\Recibos_de_Ingreso.htm">
+	</alias>
+</aliaslist>

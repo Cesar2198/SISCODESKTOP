@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsSiniestralidad" targetNamespace="http://tempuri.org/dsSiniestralidad.xsd" xmlns:mstns="http://tempuri.org/dsSiniestralidad.xsd" xmlns="http://tempuri.org/dsSiniestralidad.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsSiniestralidad" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="dsSiniestralidad" msprop:Generator_UserDSName="dsSiniestralidad" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Polizas" msprop:Generator_UserTableName="Polizas" msprop:Generator_RowDeletedName="PolizasRowDeleted" msprop:Generator_TableClassName="PolizasDataTable" msprop:Generator_RowChangedName="PolizasRowChanged" msprop:Generator_RowClassName="PolizasRow" msprop:Generator_RowChangingName="PolizasRowChanging" msprop:Generator_RowEvArgName="PolizasRowChangeEvent" msprop:Generator_RowEvHandlerName="PolizasRowChangeEventHandler" msprop:Generator_TablePropName="Polizas" msprop:Generator_TableVarName="tablePolizas" msprop:Generator_RowDeletingName="PolizasRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdPoliza" msprop:Generator_UserColumnName="IdPoliza" msprop:Generator_ColumnPropNameInRow="IdPoliza" msprop:Generator_ColumnVarNameInTable="columnIdPoliza" msprop:Generator_ColumnPropNameInTable="IdPolizaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IdProducto" msprop:Generator_UserColumnName="IdProducto" msprop:Generator_ColumnPropNameInRow="IdProducto" msprop:Generator_ColumnVarNameInTable="columnIdProducto" msprop:Generator_ColumnPropNameInTable="IdProductoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Aseguradora" msprop:Generator_UserColumnName="Aseguradora" msprop:Generator_ColumnPropNameInRow="Aseguradora" msprop:Generator_ColumnVarNameInTable="columnAseguradora" msprop:Generator_ColumnPropNameInTable="AseguradoraColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Producto" msprop:Generator_UserColumnName="Producto" msprop:Generator_ColumnPropNameInRow="Producto" msprop:Generator_ColumnVarNameInTable="columnProducto" msprop:Generator_ColumnPropNameInTable="ProductoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="VigenciaDesde" msprop:Generator_UserColumnName="VigenciaDesde" msprop:Generator_ColumnPropNameInRow="VigenciaDesde" msprop:Generator_ColumnVarNameInTable="columnVigenciaDesde" msprop:Generator_ColumnPropNameInTable="VigenciaDesdeColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="VigenciaHasta" msprop:Generator_UserColumnName="VigenciaHasta" msprop:Generator_ColumnPropNameInRow="VigenciaHasta" msprop:Generator_ColumnVarNameInTable="columnVigenciaHasta" msprop:Generator_ColumnPropNameInTable="VigenciaHastaColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PrimaNeta" msprop:Generator_UserColumnName="PrimaNeta" msprop:Generator_ColumnPropNameInRow="PrimaNeta" msprop:Generator_ColumnVarNameInTable="columnPrimaNeta" msprop:Generator_ColumnPropNameInTable="PrimaNetaColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ReclamosPagados" msprop:Generator_UserColumnName="ReclamosPagados" msprop:Generator_ColumnPropNameInRow="ReclamosPagados" msprop:Generator_ColumnVarNameInTable="columnReclamosPagados" msprop:Generator_ColumnPropNameInTable="ReclamosPagadosColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ReclamosReserva" msprop:Generator_UserColumnName="ReclamosReserva" msprop:Generator_ColumnPropNameInRow="ReclamosReserva" msprop:Generator_ColumnVarNameInTable="columnReclamosReserva" msprop:Generator_ColumnPropNameInTable="ReclamosReservaColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="PorceSiniestralidad" msprop:Generator_UserColumnName="PorceSiniestralidad" msprop:Generator_ColumnPropNameInRow="PorceSiniestralidad" msprop:Generator_ColumnVarNameInTable="columnPorceSiniestralidad" msprop:Generator_ColumnPropNameInTable="PorceSiniestralidadColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Facturas" msprop:Generator_UserTableName="Facturas" msprop:Generator_RowDeletedName="FacturasRowDeleted" msprop:Generator_TableClassName="FacturasDataTable" msprop:Generator_RowChangedName="FacturasRowChanged" msprop:Generator_RowClassName="FacturasRow" msprop:Generator_RowChangingName="FacturasRowChanging" msprop:Generator_RowEvArgName="FacturasRowChangeEvent" msprop:Generator_RowEvHandlerName="FacturasRowChangeEventHandler" msprop:Generator_TablePropName="Facturas" msprop:Generator_TableVarName="tableFacturas" msprop:Generator_RowDeletingName="FacturasRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdPoliza" msprop:Generator_UserColumnName="IdPoliza" msprop:Generator_ColumnPropNameInRow="IdPoliza" msprop:Generator_ColumnVarNameInTable="columnIdPoliza" msprop:Generator_ColumnPropNameInTable="IdPolizaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IdProducto" msprop:Generator_UserColumnName="IdProducto" msprop:Generator_ColumnPropNameInRow="IdProducto" msprop:Generator_ColumnVarNameInTable="columnIdProducto" msprop:Generator_ColumnPropNameInTable="IdProductoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FechaPago" msprop:Generator_UserColumnName="FechaPago" msprop:Generator_ColumnPropNameInRow="FechaPago" msprop:Generator_ColumnVarNameInTable="columnFechaPago" msprop:Generator_ColumnPropNameInTable="FechaPagoColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NumeroFactura" msprop:Generator_UserColumnName="NumeroFactura" msprop:Generator_ColumnPropNameInRow="NumeroFactura" msprop:Generator_ColumnVarNameInTable="columnNumeroFactura" msprop:Generator_ColumnPropNameInTable="NumeroFacturaColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PrimaNeta" msprop:Generator_UserColumnName="PrimaNeta" msprop:Generator_ColumnPropNameInRow="PrimaNeta" msprop:Generator_ColumnVarNameInTable="columnPrimaNeta" msprop:Generator_ColumnPropNameInTable="PrimaNetaColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Siniestros" msprop:Generator_UserTableName="Siniestros" msprop:Generator_RowDeletedName="SiniestrosRowDeleted" msprop:Generator_TableClassName="SiniestrosDataTable" msprop:Generator_RowChangedName="SiniestrosRowChanged" msprop:Generator_RowClassName="SiniestrosRow" msprop:Generator_RowChangingName="SiniestrosRowChanging" msprop:Generator_RowEvArgName="SiniestrosRowChangeEvent" msprop:Generator_RowEvHandlerName="SiniestrosRowChangeEventHandler" msprop:Generator_TablePropName="Siniestros" msprop:Generator_TableVarName="tableSiniestros" msprop:Generator_RowDeletingName="SiniestrosRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdPoliza" msprop:Generator_UserColumnName="IdPoliza" msprop:Generator_ColumnPropNameInRow="IdPoliza" msprop:Generator_ColumnVarNameInTable="columnIdPoliza" msprop:Generator_ColumnPropNameInTable="IdPolizaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IdProducto" msprop:Generator_UserColumnName="IdProducto" msprop:Generator_ColumnPropNameInRow="IdProducto" msprop:Generator_ColumnVarNameInTable="columnIdProducto" msprop:Generator_ColumnPropNameInTable="IdProductoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FechaOcurrido" msprop:Generator_UserColumnName="FechaOcurrido" msprop:Generator_ColumnPropNameInRow="FechaOcurrido" msprop:Generator_ColumnVarNameInTable="columnFechaOcurrido" msprop:Generator_ColumnPropNameInTable="FechaOcurridoColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="IdSiniestro" msprop:Generator_UserColumnName="IdSiniestro" msprop:Generator_ColumnPropNameInRow="IdSiniestro" msprop:Generator_ColumnVarNameInTable="columnIdSiniestro" msprop:Generator_ColumnPropNameInTable="IdSiniestroColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Pagado" msprop:Generator_UserColumnName="Pagado" msprop:Generator_ColumnPropNameInRow="Pagado" msprop:Generator_ColumnVarNameInTable="columnPagado" msprop:Generator_ColumnPropNameInTable="PagadoColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Reserva" msprop:Generator_UserColumnName="Reserva" msprop:Generator_ColumnPropNameInRow="Reserva" msprop:Generator_ColumnVarNameInTable="columnReserva" msprop:Generator_ColumnPropNameInTable="ReservaColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Polizas_Facturas" msdata:parent="Polizas" msdata:child="Facturas" msdata:parentkey="IdPoliza IdProducto" msdata:childkey="IdPoliza IdProducto" msprop:Generator_UserRelationName="Polizas_Facturas" msprop:Generator_RelationVarName="relationPolizas_Facturas" msprop:Generator_UserChildTable="Facturas" msprop:Generator_UserParentTable="Polizas" msprop:Generator_ParentPropName="PolizasRowParent" msprop:Generator_ChildPropName="GetFacturasRows" />
+      <msdata:Relationship name="Polizas_Siniestros" msdata:parent="Polizas" msdata:child="Siniestros" msdata:parentkey="IdPoliza IdProducto" msdata:childkey="IdPoliza IdProducto" msprop:Generator_UserRelationName="Polizas_Siniestros" msprop:Generator_RelationVarName="relationPolizas_Siniestros" msprop:Generator_UserChildTable="Siniestros" msprop:Generator_UserParentTable="Polizas" msprop:Generator_ParentPropName="PolizasRowParent" msprop:Generator_ChildPropName="GetSiniestrosRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

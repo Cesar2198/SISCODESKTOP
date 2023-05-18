@@ -1,0 +1,15 @@
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Utilerias.vbproj.ResolveComReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Utilerias.msgError.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Utilerias.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Utilerias.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Debug\Utilerias.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Debug\Utilerias.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Debug\Utilerias.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Debug\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Utilerias.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Utilerias.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Utilerias\obj\Debug\Utilerias.pdb

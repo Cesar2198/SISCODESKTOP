@@ -1,0 +1,30 @@
+D:\STI\SISCO3\Controles\STIControles\bin\Release\STIControles.dll
+D:\STI\SISCO3\Controles\STIControles\bin\Release\STIControles.pdb
+D:\STI\SISCO3\Controles\STIControles\bin\Release\STIControles.xml
+D:\STI\SISCO3\Controles\STIControles\obj\Release\ResolveAssemblyReference.cache
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.DropCalendario.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.Resources.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.stiComboBox.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.stiGridComboBox.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.stiMemo.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.stiTextBox.resources
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.vbproj.GenerateResource.Cache
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.dll.licenses
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.dll
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.xml
+D:\STI\SISCO3\Controles\STIControles\obj\Release\STIControles.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\bin\Release\STIControles.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\bin\Release\STIControles.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\bin\Release\STIControles.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.DropCalendario.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.stiComboBox.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.stiGridComboBox.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.stiMemo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.stiTextBox.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.dll.licenses
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\Controles\STIControles\obj\Release\STIControles.pdb

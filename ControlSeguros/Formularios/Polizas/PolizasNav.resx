@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="$this.ListaAliasCampos" xml:space="preserve">
+    <value>Aseguradora, Póliza, IdProducto, Producto, Cod.Cliente, Nombre Cliente, Vigencia Desde, Vigencia Hasta, Estado Póliza, Motivo Cancelacion, Fecha Cancelacion, Vendedor,Núm. Cert.,Núm. Docs., Núm. Conds., Núm Vigencias,Ramo,Ejecutivo Cuenta, Prima Neta, Grupo Cliente, Situación de Póliza, Bienes, Sustituida por Póliza, Suma Asegurada, Tipo Deducible, Negocio Hecho Por, Tipo de Póliza,Usuario de Asignación de Vendedor, Fecha de asignación de vendedor, Forma de Pago, Tipo de Pago, Observaciones Renovación, Fecha Envío Anexo, Fecha Sol. Renovación, Fecha de Recepción</value>
+  </data>
+  <data name="$this.ListaCampos" xml:space="preserve">
+    <value>(select Nombre from aseguradoras inner join productos on aseguradoras.idaseguradora = productos.idaseguradora where productos.idproducto = polizas.idproducto ), IdPoliza, IdProducto, (select Descripcion from Productos where productos.IdProducto = Polizas.Idproducto ), IdCliente, NombreCliente, VigenciaDesde, VigenciaHasta, EstadoPoliza, MotivoCancelacion, FechaCancelacion, (select isnull(NombreVendedor,'') from PolizasVendedores inner join Vendedores on PolizasVendedores.IdVendedor = Vendedores.IdVendedor where PolizasVendedores.IdProducto = Polizas.IdProducto and PolizasVendedores.IdPoliza = Polizas.IdPoliza and PolizasVendedores.Orden = 1) as Vendedor,(select count(*) from PolizasCertificados where polizascertificados.idpoliza = polizas.idpoliza and polizascertificados.idproducto = polizas.idproducto) as Certificados, (select count(*) from PolizasDocumentos where polizasdocumentos.idpoliza = polizas.idpoliza and polizasdocumentos.idproducto = polizas.idproducto) as Documentos, (select count(*) from PolizasClausulas where PolizasClausulas.idpoliza = polizas.idpoliza and PolizasClausulas.idproducto = polizas.idproducto ) as Clausulas, NumVigencia, (select RamoSeguros.NombreRamo from RamoSeguros inner join Productos on productos.IdRamo = RamoSeguros.idramo where   productos.idproducto = polizas.idproducto ) as Ramo,  (isnull((select NombreUsuario from usuarios where idusuario = polizas.EjecutivoCta ),isnull((select top 1 u.NombreUsuario from ClientesEjecutivos as ce inner join usuarios as u on u.idusuario = ce.IdEjecutivo where ce.idcliente = polizas.idcliente and ( IdRamo = (select top 1 idramo from productos where idproducto = polizas.idproducto ) or TipoProducto = (select top 1 TipoProducto from productos where idproducto = polizas.idproducto) or IdArea = 'POLIZAS')  order by orden), isnull((select u.nombreusuario from usuarios as u inner join clientes as c on c.EjecutivoCta =u.idusuario where c.idcliente = polizas.idcliente),'')))) as EjecutivoCta, isnull((select sum(PrimaNeta) from PolizasCertificados where fechaexclusion is null and razonexclusion is null and PolizasCertificados.IdPoliza = Polizas.IdPoliza and PolizasCertificados.IdProducto = Polizas.IdProducto),0) as PrimaNeta,(select isnull(GrupoCliente,'') from Clientes where Clientes.idcliente = Polizas.IdCliente) as GrupoCliente , (select case when polizas.MotivoCancelacion is not null or polizas.EstadoPoliza = 'CANCELADA' then 'CANCELADA' else case WHEN polizas.NumVigencia &gt; 1 THEN 'RENOVADA' else case when (select top 1 FechaVinculacion from Clientes where Clientes.IdCliente = Polizas.IdCliente) &gt;= Polizas.VigenciaDesde  then 'CLIENTE NUEVO' else case when polizas.origen = 'TRASLADO' then 'POLIZA NUEVA TRASLADO' else 'POLIZA NUEVA' end end end end) as Situacion, CAST(isnull((select count(*) from polizascertificados where Polizas.IdPoliza = polizascertificados.IdPoliza and Polizas.IdProducto = polizascertificados.IdProducto and polizascertificados.RazonExclusion is null and polizascertificados.FechaExclusion is null and polizascertificados.EstadoCertificado &lt;&gt; 'CANCELADO' ),0) AS VARCHAR) +  ' ' + isnull((select top 1 TipoBien from productos where productos.idproducto = Polizas.idproducto),'') as Bienes, IdPolizaSustituida, (select isnull(sum(ValorAsegurado),0) from PolizasCertificados where PolizasCertificados.RazonExclusion is null and PolizasCertificados.FechaExclusion is null and PolizasCertificados.EstadoCertificado = 'VIGENTE' and PolizasCertificados.IdPoliza = Polizas.IdPoliza and PolizasCertificados.IdProducto = Polizas.IdProducto) as SumaAsegurada, TipoDeducible, (select nombrevendedor from vendedores where idvendedor = polizas.NegocioPor) as NegocioPor,replace(TipoPoliza,'_',' ') as TipoPoliza, UsuarioModificaVendedores, FechaModificaVendedores, (select top 1 Descripcion from FormasPago where FormasPago.idformapago = polizas.idformapago ) as FormaPago, (select top 1 FormasPagoTipo.Descripcion from FormasPagoTipo inner join Clientes on Clientes.IdTipoPago = FormasPagoTipo.IdTipoPago where Clientes.IdCliente = Polizas.IdCliente ) as TipoPago,ObservacionesRenovacion, FechaEnvioAnexo, FechaSolicitudRenovacion, FechaRecepcion</value>
+  </data>
+  <data name="$this.ListaCamposOcultos" xml:space="preserve">
+    <value>MotivoCancelacion, FechaCancelacion, IdVendedor,IdProducto,Documentos,Clausulas,NumVigencia,GrupoCliente ,Vendedor, Bienes, IdPolizaSustituida, SumaAsegurada, TipoDeducible,NegocioPor,TipoPoliza, UsuarioModificaVendedores, FechaModificaVendedores, FormaPago,TipoPago,ObservacionesRenovacion, FechaEnvioAnexo, FechaSolicitudRenovacion, FechaRecepcion</value>
+  </data>
+</root>

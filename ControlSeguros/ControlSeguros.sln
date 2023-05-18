@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ControlSeguros", "ControlSeguros.vbproj", "{7BE5050A-6EE5-4C39-92F4-7075DAEAA4F8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2F7800B5-8A3F-4C77-828B-F9598DF8CD07} = {2F7800B5-8A3F-4C77-828B-F9598DF8CD07}
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "STIControles", "..\Controles\STIControles\STIControles.vbproj", "{6541F7EA-D267-4E48-8C48-CEFDE554062C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "stiTestControl", "..\Controles\stiTestControl\stiTestControl.vbproj", "{7A1D0DD8-8B81-42DA-AFA6-94BD9D018249}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "stiFomularios", "..\stiFomularios\stiFomularios.vbproj", "{2F7800B5-8A3F-4C77-828B-F9598DF8CD07}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Conectividad", "..\Conectividad\Conectividad.vbproj", "{466C8A9F-7623-467E-83BF-DFA8CF4ABC51}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Utilerias", "..\Utilerias\Utilerias.vbproj", "{3FB78222-8E07-435D-8845-B1CD36EA21FB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "stiSISCO", "..\stiSISCO\stiSISCO.vbproj", "{4FC205F3-F6DF-44E1-8EBD-A3AB41289ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE5050A-6EE5-4C39-92F4-7075DAEAA4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE5050A-6EE5-4C39-92F4-7075DAEAA4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE5050A-6EE5-4C39-92F4-7075DAEAA4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE5050A-6EE5-4C39-92F4-7075DAEAA4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6541F7EA-D267-4E48-8C48-CEFDE554062C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6541F7EA-D267-4E48-8C48-CEFDE554062C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6541F7EA-D267-4E48-8C48-CEFDE554062C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6541F7EA-D267-4E48-8C48-CEFDE554062C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1D0DD8-8B81-42DA-AFA6-94BD9D018249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1D0DD8-8B81-42DA-AFA6-94BD9D018249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1D0DD8-8B81-42DA-AFA6-94BD9D018249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1D0DD8-8B81-42DA-AFA6-94BD9D018249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7800B5-8A3F-4C77-828B-F9598DF8CD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7800B5-8A3F-4C77-828B-F9598DF8CD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7800B5-8A3F-4C77-828B-F9598DF8CD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7800B5-8A3F-4C77-828B-F9598DF8CD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466C8A9F-7623-467E-83BF-DFA8CF4ABC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466C8A9F-7623-467E-83BF-DFA8CF4ABC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466C8A9F-7623-467E-83BF-DFA8CF4ABC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466C8A9F-7623-467E-83BF-DFA8CF4ABC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB78222-8E07-435D-8845-B1CD36EA21FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB78222-8E07-435D-8845-B1CD36EA21FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB78222-8E07-435D-8845-B1CD36EA21FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB78222-8E07-435D-8845-B1CD36EA21FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC205F3-F6DF-44E1-8EBD-A3AB41289ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC205F3-F6DF-44E1-8EBD-A3AB41289ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC205F3-F6DF-44E1-8EBD-A3AB41289ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC205F3-F6DF-44E1-8EBD-A3AB41289ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

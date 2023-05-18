@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<toc version="1.0">
+	<properties imagewidth="16" windowstyles="8388610" exwindowstyles="256">
+	</properties>
+	<item name="Inicio" link="Inicio.htm">
+	</item>
+	<item name="Seguridad">
+		<item name="Parámetros Generales" link="Seguridad\Parámetros_Generales.htm">
+		</item>
+		<item name="Bitácora de Actividades" link="Seguridad\Bitácora_de_Actividades.htm">
+		</item>
+		<item name="Skins" link="Seguridad\Skins.htm">
+		</item>
+		<item name="Grupos de Usuarios" link="Seguridad\Grupos_de_Usuarios.htm">
+		</item>
+		<item name="Usuarios" link="Seguridad\Usuarios.htm">
+		</item>
+		<item name="Borrar Póliza" link="Seguridad\Borrar_Póliza.htm">
+		</item>
+		<item name="Borrar Certificado" link="Seguridad\Borrar_Certificado.htm">
+		</item>
+		<item name="Traslado de Clientes" link="Seguridad\Traslado_de_Clientes.htm">
+		</item>
+		<item name="Unificar Productos" link="Seguridad\Unificar_Productos.htm">
+		</item>
+		<item name="Importar Pólizas" link="Seguridad\Importar_Pólizas.htm">
+		</item>
+		<item name="Importar Siniestros" link="Seguridad\Importar_Siniestros.htm">
+		</item>
+		<item name="Importar Certificados" link="Seguridad\Importar_Certificados.htm">
+		</item>
+		<item name="Importar Facturas" link="Seguridad\Importar_Facturas.htm">
+		</item>
+		<item name="Categorías de Flujos de Trabajo" link="Seguridad\Categorías_de_Flujos_de_Trabajo.htm">
+		</item>
+		<item name="Flujos de Trabajo y Correspondencia" link="Seguridad\Flujos_de_Trabajo_y_Correspondencia.htm">
+		</item>
+		<item name="Departamentos" link="Seguridad\Departamentos.htm">
+		</item>
+		<item name="Municipios" link="Seguridad\Municipios.htm">
+		</item>
+		<item name="Ciudades" link="Seguridad\Ciudades.htm">
+		</item>
+		<item name="Zonas y Rutas" link="Seguridad\Zonas_y_Rutas.htm">
+		</item>
+		<item name="Ubicaciones de Entrega" link="Seguridad\Ubicaciones_de_Entrega.htm">
+		</item>
+	</item>
+	<item name="Tablas Generales">
+		<item name="Aseguradoras" link="Tablas_Generales\Aseguradoras.htm">
+		</item>
+		<item name="Estado de Personas" link="Tablas_Generales\Estado_de_Personas.htm">
+		</item>
+		<item name="Parentescos" link="Tablas_Generales\Parentescos.htm">
+		</item>
+		<item name="Tipo de Vendedores" link="Tablas_Generales\Tipo_de_Vendedores.htm">
+		</item>
+		<item name="Tipos de Gastos" link="Tablas_Generales\Tipos_de_Gastos.htm">
+		</item>
+		<item name="Notificaciones" link="Tablas_Generales\Notificaciones.htm">
+		</item>
+		<item name="Tipos de Gestiones" link="Tablas_Generales\Tipos_de_Gestiones.htm">
+		</item>
+		<item name="Vendedores" link="Tablas_Generales\Vendedores.htm">
+		</item>
+		<item name="Formas de Pago" link="Tablas_Generales\Formas_de_Pago.htm">
+		</item>
+		<item name="Tipos de Pago" link="Tablas_Generales\Tipos_de_Pago.htm">
+		</item>
+		<item name="Bancos" link="Tablas_Generales\Bancos.htm">
+		</item>
+		<item name="Ramos" link="Tablas_Generales\Ramos.htm">
+		</item>
+		<item name="Productos" link="Tablas_Generales\Productos.htm">
+		</item>
+	</item>
+	<item name="Cartera">
+		<item name="Avisos de Cobro" link="Cartera\Avisos_de_Cobro.htm">
+		</item>
+		<item name="Administración de Facturas" link="Cartera\Administración_de_Facturas.htm">
+		</item>
+		<item name="Registro de Pagos" link="Cartera\Registro_de_Pagos.htm">
+		</item>
+		<item name="Anulación de Pagos" link="Cartera\Anulación_de_Pagos.htm">
+		</item>
+		<item name="Anulación de Facturas" link="Cartera\Anulación_de_Facturas.htm">
+		</item>
+		<item name="Cambiar Número de Factura" link="Cartera\Cambiar_Número_de_Factura.htm">
+		</item>
+		<item name="Notas de Abono" link="Cartera\Notas_de_Abono.htm">
+		</item>
+		<item name="Notas de Crédito" link="Cartera\Notas_de_Crédito.htm">
+		</item>
+		<item name="Registro Depósitos" link="Cartera\Registro_Depósitos.htm">
+		</item>
+		<item name="Reportes de Control">
+			<item name="Reporte de Primas Pendientes" link="Cartera\Reporte_de_Primas_Pendientes.htm">
+			</item>
+			<item name="Reporte de Primas Pendientes por Cliente" link="Cartera\Reporte_de_Primas_Pendientes_por_Cliente.htm">
+			</item>
+			<item name="Listado de Pagos Emitidos" link="Cartera\Listado_de_Pagos_Emitidos.htm">
+			</item>
+			<item name="Listado de Emisión de Facturas/Créditos" link="Cartera\Listado_de_Emisión_de_Facturas_Créditos.htm">
+			</item>
+			<item name="Listado de Anulaciones de Facturas/Créditos" link="Cartera\Listado_de_Anulaciones_de_Facturas_Créditos.htm">
+			</item>
+			<item name="Generar Estados Cuenta Clientes" link="Cartera\Generar_Estados_Cuenta_Clientes.htm">
+			</item>
+			<item name="Detalle Depósito Clientes" link="Cartera\Detalle_Depósito_Clientes.htm">
+			</item>
+			<item name="Análisis Recuperación de Mora" link="Cartera\Análisis_Recuperación_de_Mora.htm">
+			</item>
+			<item name="Estado de Cuenta Póliza" link="Cartera\Estado_de_Cuenta_Póliza.htm">
+			</item>
+			<item name="Cartas de Vencimiento de Tarjetas de Crédito" link="Cartera\Cartas_de_Vencimiento_de_Tarjetas_de_Crédito.htm">
+			</item>
+		</item>
+		<item name="Gestión de Cartera" link="Cartera\Gestión_de_Cartera.htm">
+		</item>
+		<item name="Reporte de Gestiones Pendientes" link="Cartera\Reporte_de_Gestiones_Pendientes1.htm">
+		</item>
+		<item name="Reporte de Gestiones Realizadas" link="Cartera\Reporte_de_Gestiones_Realizadas.htm">
+		</item>
+	</item>
+	<item name="Caja">
+		<item name="Recibos de Ingreso" link="Caja\Recibos_de_Ingreso.htm">
+		</item>
+		<item name="Anulación de Recibos" link="Caja\Anulación_de_Recibos.htm">
+		</item>
+		<item name="Envíos Aseguradora" link="Caja\Envíos_Aseguradora.htm">
+		</item>
+		<item name="Aplicación de Recibos" link="Caja\Aplicación_de_Recibos.htm">
+		</item>
+		<item name="Cierre de Caja" link="Caja\Cierre_de_Caja.htm">
+		</item>
+		<item name="Detalle de Envíos" link="Caja\Detalle_de_Envíos.htm">
+		</item>
+		<item name="Reportes de Caja">
+			<item name="Listados de Ingresos" link="Caja\Listados_de_Ingresos.htm">
+			</item>
+			<item name="Listado de Recibos sin Aplicar" link="Caja\Listado_de_Recibos_sin_Aplicar.htm">
+			</item>
+			<item name="Análisis de Ingresos" link="Caja\Análisis_de_Ingresos.htm">
+			</item>
+			<item name="Reporte de Cierre de Caja" link="Caja\Reporte_de_Cierre_de_Caja.htm">
+			</item>
+		</item>
+	</item>
+	<item name="Pólizas">
+		<item name="Registro de Clientes" link="Polizas\Registro_de_Clientes.htm">
+		</item>
+		<item name="Pólizas de Seguros" link="Polizas\Pólizas_de_Seguros.htm">
+		</item>
+		<item name="Renovación de Pólizas" link="Polizas\Renovación_de_Pólizas.htm">
+		</item>
+		<item name="Cancelar Póliza" link="Polizas\Cancelar_Póliza.htm">
+		</item>
+		<item name="Reactivación de Pólizas" link="Polizas\Reactivación_de_Pólizas.htm">
+		</item>
+		<item name="Condiciones Especiales" link="Polizas\Condiciones_Especiales.htm">
+		</item>
+		<item name="Histórico de Pólizas" link="Polizas\Histórico_de_Pólizas.htm">
+		</item>
+		<item name="Planes de Seguros" link="Polizas\Planes_de_Seguros.htm">
+		</item>
+		<item name="Reportes de Control">
+			<item name="Reporte de Pólizas por Vencer" link="Polizas\Reporte_de_Pólizas_por_Vencer.htm">
+			</item>
+			<item name="Reporte de Pólizas Canceladas" link="Polizas\Reporte_de_Pólizas_Canceladas.htm">
+			</item>
+			<item name="Reporte de Pólizas Emitidas" link="Polizas\Reporte_de_Pólizas_Emitidas.htm">
+			</item>
+			<item name="Reporte de Clientes con Pago a Tarjetas" link="Polizas\Reporte_de_Clientes_con_Pago_a_Tarjetas.htm">
+			</item>
+			<item name="Detalle de Clientes" link="Polizas\Detalle_de_Clientes.htm">
+			</item>
+			<item name="Detalle de Vencimientos" link="Polizas\Detalle_de_Vencimientos.htm">
+			</item>
+			<item name="Reporte de Ofertas Pendientes" link="Polizas\Reporte_de_Ofertas_Pendientes.htm">
+			</item>
+			<item name="Reporte de Pólizas con Archivos Digitales" link="Polizas\Reporte_de_Pólizas_con_Archivos_Digitales.htm">
+			</item>
+		</item>
+		<item name="Ofertas" link="Polizas\Ofertas.htm">
+		</item>
+		<item name="Comparativo de Ofertas" link="Polizas\Comparativo_de_Ofertas.htm">
+		</item>
+		<item name="Búsqueda de Bienes" link="Polizas\Búsqueda_de_Bienes1.htm">
+		</item>
+		<item name="Gestión de Pólizas" link="Polizas\Gestión_de_Pólizas.htm">
+		</item>
+		<item name="Reporte de Gestiones de Pólizas Pendientes" link="Polizas\Reporte_de_Gestiones_Pendientes.htm">
+		</item>
+		<item name="Reporte de Gestiones de Pólizas Realizadas" link="Polizas\Reporte_de_Gestiones_de_Pólizas_Realizadas.htm">
+		</item>
+	</item>
+	<item name="Comisiones">
+		<item name="Resumen de Comisiones" link="Comisiones\Resumen_de_Comisiones.htm">
+		</item>
+		<item name="Estado de Cuenta" link="Comisiones\Estado_de_Cuenta.htm">
+		</item>
+		<item name="Estado de Cuenta Vendedores" link="Comisiones\Estado_de_Cuenta_Vendedores.htm">
+		</item>
+		<item name="Pagos Aseguradoras" link="Comisiones\Pagos_Aseguradoras.htm">
+		</item>
+		<item name="Operaciones Comisiones" link="Comisiones\Operaciones_Comisiones.htm">
+		</item>
+		<item name="Movimientos Comisiones" link="Comisiones\Movimientos_Comisiones.htm">
+		</item>
+		<item name="Cambio de Comisiones" link="Comisiones\Cambio_de_Comisiones.htm">
+		</item>
+		<item name="Reporte de Comisiones">
+			<item name="Listado de Comisiones por Producto" link="Comisiones\Listado_de_Comisiones_por_Producto.htm">
+			</item>
+		</item>
+		<item name="Estadísticas Comisiones" link="Comisiones\Estadísticas_Comisiones.htm">
+		</item>
+	</item>
+	<item name="Estadísticas">
+		<item name="Gráfica General" link="Estadisticas\Gráfica_General.htm">
+		</item>
+		<item name="Resumen Producción" link="Estadisticas\Resumen_Producción.htm">
+		</item>
+		<item name="Producción Clientes" link="Estadisticas\Producción_Clientes.htm">
+		</item>
+		<item name="Siniestralidad Clientes" link="Estadisticas\Siniestralidad_Clientes.htm">
+		</item>
+		<item name="Estadísticas Pólizas" link="Estadisticas\Estadísticas_Pólizas.htm">
+		</item>
+		<item name="Estadísticas Metas" link="Estadisticas\Estadísticas_Metas.htm">
+		</item>
+		<item name="Estadísticas Técnicas" link="Estadisticas\Estadísticas_Técnicas.htm">
+		</item>
+		<item name="Metas" link="Estadisticas\Metas.htm">
+		</item>
+		<item name="Generar Metas" link="Estadisticas\Generar_Metas.htm">
+		</item>
+	</item>
+	<item name="Siniestros">
+		<item name="Detalle de Siniestros" link="Siniestros\Detalle_de_Siniestros.htm">
+		</item>
+		<item name="Declaración de Reclamos de Seguros" link="Siniestros\Declaración_de_Reclamos_de_Seguros.htm">
+		</item>
+		<item name="Pagos de Siniestros" link="Siniestros\Pagos_de_Siniestros.htm">
+		</item>
+		<item name="Anulación de Siniestros" link="Siniestros\Anulación_de_Siniestros.htm">
+		</item>
+		<item name="Pago Deudores" link="Siniestros\Pago_Deudores.htm">
+		</item>
+		<item name="Planes de Siniestros" link="Siniestros\Planes_de_Siniestros.htm">
+		</item>
+		<item name="Generar Envíos" link="Siniestros\Generar_Envíos.htm">
+		</item>
+		<item name="Pre-Certificaciones" link="Siniestros\Pre-Certificaciones.htm">
+		</item>
+		<item name="Calculo de Pre-Liquidación" link="Siniestros\Calculo_de_Pre-Liquidación.htm">
+		</item>
+		<item name="Formularios Aseguradoras" link="Siniestros\Formularios_Aseguradoras.htm">
+		</item>
+		<item name="Reportes de Siniestros">
+			<item name="Reporte de Siniestro" link="Siniestros\Reporte_de_Siniestro.htm">
+			</item>
+			<item name="Consulta de Siniestros" link="Siniestros\Consulta_de_Siniestros.htm">
+			</item>
+			<item name="Registro de Asegurados Póliza" link="Siniestros\Registro_de_Asegurados_Póliza.htm">
+			</item>
+			<item name="Reclamos de Gastos Médicos" link="Siniestros\Reclamos_de_Gastos_Médicos.htm">
+			</item>
+			<item name="Reporte de Saldos Deudores Varios" link="Siniestros\Reporte_de_Saldos_Deudores_Varios.htm">
+			</item>
+			<item name="Reporte de Pre-Certificaciones" link="Siniestros\Reporte_de_Pre-Certificaciones.htm">
+			</item>
+		</item>
+		<item name="Gestión de Siniestros" link="Siniestros\Gestión_de_Siniestros.htm">
+		</item>
+		<item name="Seguimiento Siniestros" link="Siniestros\Seguimiento_Siniestros.htm">
+		</item>
+		<item name="Reporte de Gestiones Pendientes" link="Siniestros\Reporte_de_Gestiones_Pendientes2.htm">
+		</item>
+		<item name="Reporte de Gestiones Realizadas" link="Siniestros\Reporte_de_Gestiones_Realizadas1.htm">
+		</item>
+		<item name="Reporte de Seguimientos" link="Siniestros\Reporte_de_Seguimientos.htm">
+		</item>
+	</item>
+	<item name="Correspondencia">
+		<item name="Iniciar un Flujo" link="Correspondencia\Iniciar_un_Flujo.htm">
+		</item>
+		<item name="Despacho Simple" link="Correspondencia\Despacho_Simple.htm">
+		</item>
+		<item name="Recepción Simple" link="Correspondencia\Recepción_Simple.htm">
+		</item>
+		<item name="Generar Documentos" link="Correspondencia\Generar_Documentos.htm">
+		</item>
+		<item name="Recepción de Documentos" link="Correspondencia\Recepción_de_Documentos.htm">
+		</item>
+		<item name="Rutear Documentos" link="Correspondencia\Rutear_Documentos.htm">
+		</item>
+		<item name="Documentos no Entregados" link="Correspondencia\Documentos_no_Entregados.htm">
+		</item>
+		<item name="Anular Documentos" link="Correspondencia\Anular_Documentos.htm">
+		</item>
+		<item name="Continuar Flujo" link="Correspondencia\Continuar_Flujo.htm">
+		</item>
+		<item name="Asignación de Flujos" link="Correspondencia\Asignación_de_Flujos.htm">
+		</item>
+		<item name="Re-Asignación de Flujos" link="Correspondencia\Re-Asignación_de_Flujos.htm">
+		</item>
+		<item name="Detalle de Correspondencia" link="Correspondencia\Detalle_de_Correspondencia.htm">
+		</item>
+		<item name="Agenda de Trabajo" link="Correspondencia\Agenda_de_Trabajo.htm">
+		</item>
+		<item name="Reportes de Control">
+			<item name="Análisis de Flujos de trabajo" link="Correspondencia\Análisis_de_Flujos_de_trabajo.htm">
+			</item>
+			<item name="Reporte de Correspondencia de Salida" link="Correspondencia\Reporte_de_Correspondencia_de_Salida.htm">
+			</item>
+			<item name="Control de Correspondencia" link="Correspondencia\Control_de_Correspondencia.htm">
+			</item>
+			<item name="Resumen de Correspondencia" link="Correspondencia\Resumen_de_Correspondencia.htm">
+			</item>
+		</item>
+	</item>
+</toc>

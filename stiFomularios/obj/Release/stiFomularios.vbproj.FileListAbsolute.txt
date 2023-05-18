@@ -1,0 +1,56 @@
+D:\STI\SISCO3\stiFomularios\bin\Release\stiFomularios.dll
+D:\STI\SISCO3\stiFomularios\bin\Release\stiFomularios.pdb
+D:\STI\SISCO3\stiFomularios\bin\Release\stiFomularios.xml
+D:\STI\SISCO3\stiFomularios\bin\Release\Conectividad.dll
+D:\STI\SISCO3\stiFomularios\bin\Release\STIControles.dll
+D:\STI\SISCO3\stiFomularios\bin\Release\Utilerias.dll
+D:\STI\SISCO3\stiFomularios\bin\Release\Interop.SHDocVw.dll
+D:\STI\SISCO3\stiFomularios\bin\Release\Interop.MSXML2.dll
+D:\STI\SISCO3\stiFomularios\bin\Release\STIControles.pdb
+D:\STI\SISCO3\stiFomularios\bin\Release\STIControles.xml
+D:\STI\SISCO3\stiFomularios\bin\Release\Conectividad.pdb
+D:\STI\SISCO3\stiFomularios\bin\Release\Conectividad.xml
+D:\STI\SISCO3\stiFomularios\bin\Release\Utilerias.pdb
+D:\STI\SISCO3\stiFomularios\bin\Release\Utilerias.xml
+D:\STI\SISCO3\stiFomularios\obj\Release\ResolveAssemblyReference.cache
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.Resources.resources
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.stiBuscarRegistro.resources
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.stiMantenimiento.resources
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.stiNavegador.resources
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.stiPersonalizaCampo.resources
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.stiPrincipal.resources
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.stiReporteador.resources
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.stiReportes.resources
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.vbproj.GenerateResource.Cache
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.dll.licenses
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.dll
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.xml
+D:\STI\SISCO3\stiFomularios\obj\Release\stiFomularios.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\stiFomularios.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\stiFomularios.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\stiFomularios.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\Conectividad.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\STIControles.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\Utilerias.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\STIControles.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\STIControles.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\Conectividad.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\Conectividad.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\Utilerias.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Release\Utilerias.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.stiBuscarRegistro.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.stiMantenimiento.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.stiNavegador.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.stiPersonalizaCampo.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.stiPrincipal.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.stiReporteador.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.stiReportes.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.dll.licenses
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\obj\Release\stiFomularios.pdb

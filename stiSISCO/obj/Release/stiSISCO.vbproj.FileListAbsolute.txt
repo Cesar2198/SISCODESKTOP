@@ -1,0 +1,34 @@
+D:\STI\SISCO3\stiSISCO\bin\Release\stiSISCO.dll
+D:\STI\SISCO3\stiSISCO\bin\Release\stiSISCO.pdb
+D:\STI\SISCO3\stiSISCO\bin\Release\stiSISCO.xml
+D:\STI\SISCO3\stiSISCO\bin\Release\Conectividad.dll
+D:\STI\SISCO3\stiSISCO\bin\Release\Utilerias.dll
+D:\STI\SISCO3\stiSISCO\bin\Release\Interop.MSXML2.dll
+D:\STI\SISCO3\stiSISCO\bin\Release\Interop.SHDocVw.dll
+D:\STI\SISCO3\stiSISCO\bin\Release\Conectividad.pdb
+D:\STI\SISCO3\stiSISCO\bin\Release\Conectividad.xml
+D:\STI\SISCO3\stiSISCO\bin\Release\Utilerias.pdb
+D:\STI\SISCO3\stiSISCO\bin\Release\Utilerias.xml
+D:\STI\SISCO3\stiSISCO\obj\Release\ResolveAssemblyReference.cache
+D:\STI\SISCO3\stiSISCO\obj\Release\stiSISCO.Resources.resources
+D:\STI\SISCO3\stiSISCO\obj\Release\stiSISCO.vbproj.GenerateResource.Cache
+D:\STI\SISCO3\stiSISCO\obj\Release\stiSISCO.dll
+D:\STI\SISCO3\stiSISCO\obj\Release\stiSISCO.xml
+D:\STI\SISCO3\stiSISCO\obj\Release\stiSISCO.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\stiSISCO.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\stiSISCO.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\stiSISCO.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\Conectividad.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\Utilerias.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\Conectividad.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\Conectividad.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\Utilerias.pdb
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\bin\Release\Utilerias.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Release\stiSISCO.Resources.resources
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Release\stiSISCO.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Release\stiSISCO.dll
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Release\stiSISCO.xml
+C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiSISCO\obj\Release\stiSISCO.pdb
