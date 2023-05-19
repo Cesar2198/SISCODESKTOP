@@ -6,14 +6,7 @@ Utilerias
 </name>
 </assembly>
 <members>
-<member name="M:Utilerias.Genericas.dbStr(System.Object,System.Int32)">
-	<summary>
- Rutina para formatear entradas de cadena a la base de datos
- </summary>
-	<param name="Valor">Cadena que se desea ingresar a una base de datos</param>
-	<returns>Cadena formateada para ingresarse a una base de datos</returns>
-	<remarks></remarks>
-</member><member name="T:Utilerias.RoboHelpAPI.RoboHelp_Search">
+<member name="T:Utilerias.RoboHelpAPI.RoboHelp_Search">
 	<summary>
  Class to Search the Project for a Query in a project
  The search results include the Rank, Title, URL and summary about the resulting topic
@@ -41,6 +34,13 @@ Utilerias
          the area where the project is published in
  
  </summary>
+	<remarks></remarks>
+</member><member name="M:Utilerias.Genericas.dbStr(System.Object,System.Int32)">
+	<summary>
+ Rutina para formatear entradas de cadena a la base de datos
+ </summary>
+	<param name="Valor">Cadena que se desea ingresar a una base de datos</param>
+	<returns>Cadena formateada para ingresarse a una base de datos</returns>
 	<remarks></remarks>
 </member>
 </members>

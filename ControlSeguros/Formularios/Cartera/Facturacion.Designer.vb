@@ -94,14 +94,14 @@ Partial Class Facturacion
         '
         Me.btnAyuda.Appearance.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.btnAyuda.Appearance.Options.UseFont = True
-        Me.btnAyuda.Location = New System.Drawing.Point(539, 587)
+        Me.btnAyuda.Location = New System.Drawing.Point(1104, 545)
         Me.btnAyuda.TabIndex = 30
         '
         'btnBuscar
         '
         Me.btnBuscar.Appearance.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.btnBuscar.Appearance.Options.UseFont = True
-        Me.btnBuscar.Location = New System.Drawing.Point(20, 613)
+        Me.btnBuscar.Location = New System.Drawing.Point(724, 556)
         Me.btnBuscar.Size = New System.Drawing.Size(10, 10)
         Me.btnBuscar.TabIndex = 31
         Me.btnBuscar.Visible = False
@@ -110,7 +110,7 @@ Partial Class Facturacion
         '
         Me.btnNuevo.Appearance.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.btnNuevo.Appearance.Options.UseFont = True
-        Me.btnNuevo.Location = New System.Drawing.Point(206, 587)
+        Me.btnNuevo.Location = New System.Drawing.Point(771, 545)
         Me.btnNuevo.TabIndex = 27
         '
         'btnGuardar
@@ -120,7 +120,7 @@ Partial Class Facturacion
         Me.btnGuardar.Appearance.Options.UseTextOptions = True
         Me.btnGuardar.Appearance.TextOptions.WordWrap = DevExpress.Utils.WordWrap.Wrap
         Me.btnGuardar.Image = CType(resources.GetObject("btnGuardar.Image"), System.Drawing.Image)
-        Me.btnGuardar.Location = New System.Drawing.Point(417, 587)
+        Me.btnGuardar.Location = New System.Drawing.Point(982, 545)
         Me.btnGuardar.Size = New System.Drawing.Size(122, 36)
         Me.btnGuardar.TabIndex = 29
         Me.btnGuardar.Text = "&Generar Aviso Cobro"
@@ -129,7 +129,7 @@ Partial Class Facturacion
         '
         Me.btnSalir.Appearance.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Bold)
         Me.btnSalir.Appearance.Options.UseFont = True
-        Me.btnSalir.Location = New System.Drawing.Point(631, 587)
+        Me.btnSalir.Location = New System.Drawing.Point(1192, 545)
         Me.btnSalir.TabIndex = 31
         '
         'btnEliminar
@@ -139,7 +139,7 @@ Partial Class Facturacion
         Me.btnEliminar.Appearance.Options.UseFont = True
         Me.btnEliminar.Appearance.Options.UseTextOptions = True
         Me.btnEliminar.Appearance.TextOptions.WordWrap = DevExpress.Utils.WordWrap.Wrap
-        Me.btnEliminar.Location = New System.Drawing.Point(4, 587)
+        Me.btnEliminar.Location = New System.Drawing.Point(7, 545)
         Me.btnEliminar.Size = New System.Drawing.Size(95, 36)
         Me.btnEliminar.TabIndex = 30
         Me.btnEliminar.Text = "An&ular AC"
@@ -154,7 +154,7 @@ Partial Class Facturacion
         Me.lblNombreFormulario.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center
         Me.lblNombreFormulario.Appearance.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center
         Me.lblNombreFormulario.Location = New System.Drawing.Point(137, 1)
-        Me.lblNombreFormulario.Size = New System.Drawing.Size(587, 38)
+        Me.lblNombreFormulario.Size = New System.Drawing.Size(1146, 38)
         Me.lblNombreFormulario.TabIndex = 29
         Me.lblNombreFormulario.Text = "Generación de Avisos de Cobro"
         '
@@ -170,7 +170,7 @@ Partial Class Facturacion
         Me.btnGuardarComo.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center
         Me.btnGuardarComo.Appearance.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center
         Me.btnGuardarComo.Appearance.TextOptions.WordWrap = DevExpress.Utils.WordWrap.Wrap
-        Me.btnGuardarComo.Location = New System.Drawing.Point(36, 613)
+        Me.btnGuardarComo.Location = New System.Drawing.Point(740, 556)
         Me.btnGuardarComo.Size = New System.Drawing.Size(10, 10)
         Me.btnGuardarComo.TabIndex = 32
         Me.btnGuardarComo.Visible = False
@@ -187,7 +187,7 @@ Partial Class Facturacion
         Me.txtVigenciaHasta.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtVigenciaHasta.LabelText = "Vigenica Hasta"
         Me.txtVigenciaHasta.LabelWidth = 125
-        Me.txtVigenciaHasta.Location = New System.Drawing.Point(184, 182)
+        Me.txtVigenciaHasta.Location = New System.Drawing.Point(179, 198)
         Me.txtVigenciaHasta.MaxLength = 0
         Me.txtVigenciaHasta.Name = "txtVigenciaHasta"
         Me.txtVigenciaHasta.NombreCampo = "VigenciaHasta"
@@ -211,7 +211,7 @@ Partial Class Facturacion
         Me.txtVigenciaDesde.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtVigenciaDesde.LabelText = "Vigencia Desde"
         Me.txtVigenciaDesde.LabelWidth = 125
-        Me.txtVigenciaDesde.Location = New System.Drawing.Point(12, 182)
+        Me.txtVigenciaDesde.Location = New System.Drawing.Point(7, 198)
         Me.txtVigenciaDesde.MaxLength = 0
         Me.txtVigenciaDesde.Name = "txtVigenciaDesde"
         Me.txtVigenciaDesde.NombreCampo = "VigenciaDesde"
@@ -233,12 +233,12 @@ Partial Class Facturacion
         Me.cboTipoFactura.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
         Me.cboTipoFactura.ControlBackColor = System.Drawing.Color.White
         Me.cboTipoFactura.ControlForeColor = System.Drawing.Color.Black
-        Me.cboTipoFactura.FilasVisibles = 53125
+        Me.cboTipoFactura.FilasVisibles = 38280606
         Me.cboTipoFactura.LabelOrietation = STIControles.stiComboBox.LOrientacion.Superior
         Me.cboTipoFactura.LabelText = "Tipo Documento"
         Me.cboTipoFactura.LabelWidth = 125
         Me.cboTipoFactura.Lista = "F Factura|C Crédito Fiscal|E Factura Exportación"
-        Me.cboTipoFactura.Location = New System.Drawing.Point(356, 180)
+        Me.cboTipoFactura.Location = New System.Drawing.Point(351, 196)
         Me.cboTipoFactura.MostrarBusquedaColumnas = False
         Me.cboTipoFactura.Name = "cboTipoFactura"
         Me.cboTipoFactura.NombreCampo = "TipoFactura"
@@ -263,7 +263,7 @@ Partial Class Facturacion
         Me.cboIdProducto.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
         Me.cboIdProducto.ControlBackColor = System.Drawing.Color.White
         Me.cboIdProducto.ControlForeColor = System.Drawing.Color.Black
-        Me.cboIdProducto.FilasVisibles = 53125
+        Me.cboIdProducto.FilasVisibles = 38280606
         Me.cboIdProducto.LabelOrietation = STIControles.stiComboBox.LOrientacion.Superior
         Me.cboIdProducto.LabelText = "Producto"
         Me.cboIdProducto.LabelWidth = 125
@@ -276,7 +276,7 @@ Partial Class Facturacion
         Me.cboIdProducto.Query = "select IdProducto [Producto], Descripcion [Descripción] from Productos order by D" & _
             "escripcion asc"
         Me.cboIdProducto.SelectIndex = 0
-        Me.cboIdProducto.Size = New System.Drawing.Size(397, 38)
+        Me.cboIdProducto.Size = New System.Drawing.Size(402, 38)
         Me.cboIdProducto.SoloLectura = False
         Me.cboIdProducto.StringConection = ""
         Me.cboIdProducto.TabIndex = 1
@@ -302,7 +302,7 @@ Partial Class Facturacion
         Me.txtNombreCliente.NombreCampo = "NombreCliente"
         Me.txtNombreCliente.Obligatorio = True
         Me.txtNombreCliente.PassWordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txtNombreCliente.Size = New System.Drawing.Size(397, 36)
+        Me.txtNombreCliente.Size = New System.Drawing.Size(402, 36)
         Me.txtNombreCliente.SoloLectura = False
         Me.txtNombreCliente.TabIndex = 25
         Me.txtNombreCliente.TipoDato = STIControles.stiTextBox.TipoContenido.Texto
@@ -344,7 +344,7 @@ Partial Class Facturacion
         Me.txtIdAnexo.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtIdAnexo.LabelText = "Tipo Anexo"
         Me.txtIdAnexo.LabelWidth = 125
-        Me.txtIdAnexo.Location = New System.Drawing.Point(184, 220)
+        Me.txtIdAnexo.Location = New System.Drawing.Point(179, 236)
         Me.txtIdAnexo.MaxLength = 25
         Me.txtIdAnexo.Name = "txtIdAnexo"
         Me.txtIdAnexo.NombreCampo = "IdAnexo"
@@ -390,19 +390,19 @@ Partial Class Facturacion
         Me.cboFormaPago.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
         Me.cboFormaPago.ControlBackColor = System.Drawing.Color.White
         Me.cboFormaPago.ControlForeColor = System.Drawing.Color.Black
-        Me.cboFormaPago.FilasVisibles = 53125
+        Me.cboFormaPago.FilasVisibles = 38280606
         Me.cboFormaPago.LabelOrietation = STIControles.stiComboBox.LOrientacion.Superior
         Me.cboFormaPago.LabelText = "Forma de Pago"
         Me.cboFormaPago.LabelWidth = 125
         Me.cboFormaPago.Lista = ""
-        Me.cboFormaPago.Location = New System.Drawing.Point(528, 180)
+        Me.cboFormaPago.Location = New System.Drawing.Point(523, 196)
         Me.cboFormaPago.MostrarBusquedaColumnas = False
         Me.cboFormaPago.Name = "cboFormaPago"
         Me.cboFormaPago.NombreCampo = "TipoFactura"
         Me.cboFormaPago.Obligatorio = True
         Me.cboFormaPago.Query = "select IdFormaPago as FormaPago, Descripcion as [Descripción] from FormasPago"
         Me.cboFormaPago.SelectIndex = 0
-        Me.cboFormaPago.Size = New System.Drawing.Size(166, 38)
+        Me.cboFormaPago.Size = New System.Drawing.Size(176, 38)
         Me.cboFormaPago.SoloLectura = False
         Me.cboFormaPago.StringConection = ""
         Me.cboFormaPago.TabIndex = 8
@@ -422,7 +422,7 @@ Partial Class Facturacion
         Me.txtNumFacturaInicial.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtNumFacturaInicial.LabelText = "#Factura Inicial"
         Me.txtNumFacturaInicial.LabelWidth = 125
-        Me.txtNumFacturaInicial.Location = New System.Drawing.Point(12, 220)
+        Me.txtNumFacturaInicial.Location = New System.Drawing.Point(7, 236)
         Me.txtNumFacturaInicial.MaxLength = 25
         Me.txtNumFacturaInicial.Name = "txtNumFacturaInicial"
         Me.txtNumFacturaInicial.NombreCampo = "IdCliente"
@@ -440,11 +440,11 @@ Partial Class Facturacion
                     Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GridFacturas.ColumnasAdicionales = ""
-        Me.GridFacturas.Location = New System.Drawing.Point(4, 452)
+        Me.GridFacturas.Location = New System.Drawing.Point(7, 358)
         Me.GridFacturas.MainView = Me.VistaFacturas
         Me.GridFacturas.Name = "GridFacturas"
         Me.GridFacturas.NombreTabla = ""
-        Me.GridFacturas.Size = New System.Drawing.Size(716, 111)
+        Me.GridFacturas.Size = New System.Drawing.Size(1276, 159)
         Me.GridFacturas.TabIndex = 25
         Me.GridFacturas.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.VistaFacturas})
         '
@@ -619,7 +619,7 @@ Partial Class Facturacion
         Me.txtPorceComision.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtPorceComision.LabelText = "% Comisión"
         Me.txtPorceComision.LabelWidth = 100
-        Me.txtPorceComision.Location = New System.Drawing.Point(12, 410)
+        Me.txtPorceComision.Location = New System.Drawing.Point(7, 316)
         Me.txtPorceComision.MaxLength = 25
         Me.txtPorceComision.Name = "txtPorceComision"
         Me.txtPorceComision.NombreCampo = ""
@@ -643,7 +643,7 @@ Partial Class Facturacion
         Me.txtPrima.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtPrima.LabelText = "Prima Póliza"
         Me.txtPrima.LabelWidth = 100
-        Me.txtPrima.Location = New System.Drawing.Point(12, 372)
+        Me.txtPrima.Location = New System.Drawing.Point(7, 278)
         Me.txtPrima.MaxLength = 25
         Me.txtPrima.Name = "txtPrima"
         Me.txtPrima.NombreCampo = ""
@@ -660,12 +660,12 @@ Partial Class Facturacion
         Me.GridGastos.Anchor = CType(((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Left) _
                     Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.GridGastos.ColumnasAdicionales = ""
-        Me.GridGastos.Location = New System.Drawing.Point(184, 376)
+        Me.GridGastos.Location = New System.Drawing.Point(187, 278)
         Me.GridGastos.MainView = Me.VistaGastos
         Me.GridGastos.Name = "GridGastos"
         Me.GridGastos.NombreTabla = ""
         Me.GridGastos.RepositoryItems.AddRange(New DevExpress.XtraEditors.Repository.RepositoryItem() {Me.RepositoryItemLookUpEdit1, Me.RepositoryItemLookUpEdit2, Me.RepositoryItemTextEdit1})
-        Me.GridGastos.Size = New System.Drawing.Size(510, 70)
+        Me.GridGastos.Size = New System.Drawing.Size(1096, 74)
         Me.GridGastos.TabIndex = 18
         Me.GridGastos.ViewCollection.AddRange(New DevExpress.XtraGrid.Views.Base.BaseView() {Me.VistaGastos})
         '
@@ -759,7 +759,7 @@ Partial Class Facturacion
         Me.txtNumTarjeta.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtNumTarjeta.LabelText = "Número Tarjeta Crédito"
         Me.txtNumTarjeta.LabelWidth = 125
-        Me.txtNumTarjeta.Location = New System.Drawing.Point(12, 258)
+        Me.txtNumTarjeta.Location = New System.Drawing.Point(712, 146)
         Me.txtNumTarjeta.MaxLength = 25
         Me.txtNumTarjeta.Name = "txtNumTarjeta"
         Me.txtNumTarjeta.NombreCampo = "IdAnexo"
@@ -783,13 +783,13 @@ Partial Class Facturacion
         Me.txtNombreTarjeta.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtNombreTarjeta.LabelText = "Nombre Tarjeta Crédito"
         Me.txtNombreTarjeta.LabelWidth = 125
-        Me.txtNombreTarjeta.Location = New System.Drawing.Point(184, 258)
+        Me.txtNombreTarjeta.Location = New System.Drawing.Point(888, 146)
         Me.txtNombreTarjeta.MaxLength = 150
         Me.txtNombreTarjeta.Name = "txtNombreTarjeta"
         Me.txtNombreTarjeta.NombreCampo = "IdAnexo"
         Me.txtNombreTarjeta.Obligatorio = False
         Me.txtNombreTarjeta.PassWordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txtNombreTarjeta.Size = New System.Drawing.Size(338, 36)
+        Me.txtNombreTarjeta.Size = New System.Drawing.Size(234, 36)
         Me.txtNombreTarjeta.SoloLectura = False
         Me.txtNombreTarjeta.TabIndex = 14
         Me.txtNombreTarjeta.TipoDato = STIControles.stiTextBox.TipoContenido.Texto
@@ -807,13 +807,13 @@ Partial Class Facturacion
         Me.txtVenceTarjeta.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtVenceTarjeta.LabelText = "Vencimiento Tarjeta Crédito"
         Me.txtVenceTarjeta.LabelWidth = 125
-        Me.txtVenceTarjeta.Location = New System.Drawing.Point(528, 258)
+        Me.txtVenceTarjeta.Location = New System.Drawing.Point(1140, 150)
         Me.txtVenceTarjeta.MaxLength = 25
         Me.txtVenceTarjeta.Name = "txtVenceTarjeta"
         Me.txtVenceTarjeta.NombreCampo = "IdAnexo"
         Me.txtVenceTarjeta.Obligatorio = False
         Me.txtVenceTarjeta.PassWordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txtVenceTarjeta.Size = New System.Drawing.Size(166, 36)
+        Me.txtVenceTarjeta.Size = New System.Drawing.Size(132, 36)
         Me.txtVenceTarjeta.SoloLectura = False
         Me.txtVenceTarjeta.TabIndex = 15
         Me.txtVenceTarjeta.TipoDato = STIControles.stiTextBox.TipoContenido.Texto
@@ -831,7 +831,7 @@ Partial Class Facturacion
         Me.txtReferencia.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtReferencia.LabelText = "Referencia"
         Me.txtReferencia.LabelWidth = 125
-        Me.txtReferencia.Location = New System.Drawing.Point(356, 220)
+        Me.txtReferencia.Location = New System.Drawing.Point(351, 236)
         Me.txtReferencia.MaxLength = 500
         Me.txtReferencia.Name = "txtReferencia"
         Me.txtReferencia.NombreCampo = "IdAnexo"
@@ -855,13 +855,13 @@ Partial Class Facturacion
         Me.txtObservaciones.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtObservaciones.LabelText = "Observaciones"
         Me.txtObservaciones.LabelWidth = 125
-        Me.txtObservaciones.Location = New System.Drawing.Point(528, 220)
+        Me.txtObservaciones.Location = New System.Drawing.Point(523, 236)
         Me.txtObservaciones.MaxLength = 1000
         Me.txtObservaciones.Name = "txtObservaciones"
         Me.txtObservaciones.NombreCampo = "IdAnexo"
         Me.txtObservaciones.Obligatorio = False
         Me.txtObservaciones.PassWordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txtObservaciones.Size = New System.Drawing.Size(166, 36)
+        Me.txtObservaciones.Size = New System.Drawing.Size(176, 36)
         Me.txtObservaciones.SoloLectura = False
         Me.txtObservaciones.TabIndex = 12
         Me.txtObservaciones.TipoDato = STIControles.stiTextBox.TipoContenido.Texto
@@ -899,7 +899,7 @@ Partial Class Facturacion
         Me.btnImprimir.Appearance.Options.UseTextOptions = True
         Me.btnImprimir.Appearance.TextOptions.WordWrap = DevExpress.Utils.WordWrap.Wrap
         Me.btnImprimir.Image = CType(resources.GetObject("btnImprimir.Image"), System.Drawing.Image)
-        Me.btnImprimir.Location = New System.Drawing.Point(299, 587)
+        Me.btnImprimir.Location = New System.Drawing.Point(864, 545)
         Me.btnImprimir.Name = "btnImprimir"
         Me.btnImprimir.Size = New System.Drawing.Size(117, 36)
         Me.btnImprimir.TabIndex = 28
@@ -915,12 +915,12 @@ Partial Class Facturacion
         Me.cboIdRamo.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
         Me.cboIdRamo.ControlBackColor = System.Drawing.Color.White
         Me.cboIdRamo.ControlForeColor = System.Drawing.Color.Black
-        Me.cboIdRamo.FilasVisibles = 53125
+        Me.cboIdRamo.FilasVisibles = 38280606
         Me.cboIdRamo.LabelOrietation = STIControles.stiComboBox.LOrientacion.Superior
         Me.cboIdRamo.LabelText = "Ramo"
         Me.cboIdRamo.LabelWidth = 125
         Me.cboIdRamo.Lista = ""
-        Me.cboIdRamo.Location = New System.Drawing.Point(275, 37)
+        Me.cboIdRamo.Location = New System.Drawing.Point(279, 41)
         Me.cboIdRamo.MostrarBusquedaColumnas = False
         Me.cboIdRamo.Name = "cboIdRamo"
         Me.cboIdRamo.NombreCampo = "IdRamo"
@@ -947,7 +947,7 @@ Partial Class Facturacion
         Me.txtMotivoAnulacion.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtMotivoAnulacion.LabelText = "Motivo Anulación"
         Me.txtMotivoAnulacion.LabelWidth = 125
-        Me.txtMotivoAnulacion.Location = New System.Drawing.Point(546, 41)
+        Me.txtMotivoAnulacion.Location = New System.Drawing.Point(551, 41)
         Me.txtMotivoAnulacion.MaxLength = 250
         Me.txtMotivoAnulacion.Name = "txtMotivoAnulacion"
         Me.txtMotivoAnulacion.NombreCampo = "MotivoAnulacion"
@@ -969,12 +969,12 @@ Partial Class Facturacion
         Me.cboAvisoInterno.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
         Me.cboAvisoInterno.ControlBackColor = System.Drawing.Color.White
         Me.cboAvisoInterno.ControlForeColor = System.Drawing.Color.Black
-        Me.cboAvisoInterno.FilasVisibles = 53125
+        Me.cboAvisoInterno.FilasVisibles = 38280606
         Me.cboAvisoInterno.LabelOrietation = STIControles.stiComboBox.LOrientacion.Superior
         Me.cboAvisoInterno.LabelText = "Aviso Interno"
         Me.cboAvisoInterno.LabelWidth = 125
         Me.cboAvisoInterno.Lista = "S Si|N No"
-        Me.cboAvisoInterno.Location = New System.Drawing.Point(472, 39)
+        Me.cboAvisoInterno.Location = New System.Drawing.Point(477, 41)
         Me.cboAvisoInterno.MostrarBusquedaColumnas = False
         Me.cboAvisoInterno.Name = "cboAvisoInterno"
         Me.cboAvisoInterno.NombreCampo = "AvisoInterno"
@@ -1001,7 +1001,7 @@ Partial Class Facturacion
         Me.txtFechaInicialPago.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtFechaInicialPago.LabelText = "Fecha Inicial de Pago"
         Me.txtFechaInicialPago.LabelWidth = 125
-        Me.txtFechaInicialPago.Location = New System.Drawing.Point(12, 334)
+        Me.txtFechaInicialPago.Location = New System.Drawing.Point(712, 236)
         Me.txtFechaInicialPago.MaxLength = 0
         Me.txtFechaInicialPago.Name = "txtFechaInicialPago"
         Me.txtFechaInicialPago.NombreCampo = "FechaInicialPago"
@@ -1023,19 +1023,19 @@ Partial Class Facturacion
         Me.cboAplicarRetencionIva.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
         Me.cboAplicarRetencionIva.ControlBackColor = System.Drawing.Color.White
         Me.cboAplicarRetencionIva.ControlForeColor = System.Drawing.Color.Black
-        Me.cboAplicarRetencionIva.FilasVisibles = 53125
+        Me.cboAplicarRetencionIva.FilasVisibles = 38280606
         Me.cboAplicarRetencionIva.LabelOrietation = STIControles.stiComboBox.LOrientacion.Superior
         Me.cboAplicarRetencionIva.LabelText = "Aplicar Retención IVA"
         Me.cboAplicarRetencionIva.LabelWidth = 125
         Me.cboAplicarRetencionIva.Lista = "S Si|N No"
-        Me.cboAplicarRetencionIva.Location = New System.Drawing.Point(184, 332)
+        Me.cboAplicarRetencionIva.Location = New System.Drawing.Point(884, 234)
         Me.cboAplicarRetencionIva.MostrarBusquedaColumnas = False
         Me.cboAplicarRetencionIva.Name = "cboAplicarRetencionIva"
         Me.cboAplicarRetencionIva.NombreCampo = "AplicarRetencionIva"
         Me.cboAplicarRetencionIva.Obligatorio = False
         Me.cboAplicarRetencionIva.Query = ""
         Me.cboAplicarRetencionIva.SelectIndex = 0
-        Me.cboAplicarRetencionIva.Size = New System.Drawing.Size(166, 38)
+        Me.cboAplicarRetencionIva.Size = New System.Drawing.Size(131, 38)
         Me.cboAplicarRetencionIva.SoloLectura = False
         Me.cboAplicarRetencionIva.StringConection = ""
         Me.cboAplicarRetencionIva.TabIndex = 20
@@ -1055,13 +1055,13 @@ Partial Class Facturacion
         Me.txtFechaNotificacion.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtFechaNotificacion.LabelText = "Fecha Notificación Aseguradora"
         Me.txtFechaNotificacion.LabelWidth = 125
-        Me.txtFechaNotificacion.Location = New System.Drawing.Point(356, 334)
+        Me.txtFechaNotificacion.Location = New System.Drawing.Point(1021, 236)
         Me.txtFechaNotificacion.MaxLength = 0
         Me.txtFechaNotificacion.Name = "txtFechaNotificacion"
         Me.txtFechaNotificacion.NombreCampo = "FechaNotificacion"
         Me.txtFechaNotificacion.Obligatorio = False
         Me.txtFechaNotificacion.PassWordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txtFechaNotificacion.Size = New System.Drawing.Size(166, 36)
+        Me.txtFechaNotificacion.Size = New System.Drawing.Size(132, 36)
         Me.txtFechaNotificacion.SoloLectura = False
         Me.txtFechaNotificacion.TabIndex = 21
         Me.txtFechaNotificacion.TipoDato = STIControles.stiTextBox.TipoContenido.Fecha
@@ -1079,13 +1079,13 @@ Partial Class Facturacion
         Me.txtUsuarioGrabacion.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtUsuarioGrabacion.LabelText = "Usuario Grabación"
         Me.txtUsuarioGrabacion.LabelWidth = 125
-        Me.txtUsuarioGrabacion.Location = New System.Drawing.Point(528, 334)
+        Me.txtUsuarioGrabacion.Location = New System.Drawing.Point(1159, 236)
         Me.txtUsuarioGrabacion.MaxLength = 25
         Me.txtUsuarioGrabacion.Name = "txtUsuarioGrabacion"
         Me.txtUsuarioGrabacion.NombreCampo = "UsuarioGrabacion"
         Me.txtUsuarioGrabacion.Obligatorio = False
         Me.txtUsuarioGrabacion.PassWordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txtUsuarioGrabacion.Size = New System.Drawing.Size(166, 36)
+        Me.txtUsuarioGrabacion.Size = New System.Drawing.Size(113, 36)
         Me.txtUsuarioGrabacion.SoloLectura = True
         Me.txtUsuarioGrabacion.TabIndex = 37
         Me.txtUsuarioGrabacion.TipoDato = STIControles.stiTextBox.TipoContenido.Texto
@@ -1094,7 +1094,7 @@ Partial Class Facturacion
         'chkImpPP
         '
         Me.chkImpPP.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
-        Me.chkImpPP.Location = New System.Drawing.Point(299, 565)
+        Me.chkImpPP.Location = New System.Drawing.Point(769, 523)
         Me.chkImpPP.Name = "chkImpPP"
         Me.chkImpPP.Properties.Appearance.Options.UseTextOptions = True
         Me.chkImpPP.Properties.Appearance.TextOptions.WordWrap = DevExpress.Utils.WordWrap.Wrap
@@ -1110,7 +1110,7 @@ Partial Class Facturacion
         Me.btnReactivar.Appearance.Options.UseTextOptions = True
         Me.btnReactivar.Appearance.TextOptions.WordWrap = DevExpress.Utils.WordWrap.Wrap
         Me.btnReactivar.Image = CType(resources.GetObject("btnReactivar.Image"), System.Drawing.Image)
-        Me.btnReactivar.Location = New System.Drawing.Point(98, 587)
+        Me.btnReactivar.Location = New System.Drawing.Point(100, 545)
         Me.btnReactivar.Name = "btnReactivar"
         Me.btnReactivar.Size = New System.Drawing.Size(107, 36)
         Me.btnReactivar.TabIndex = 39
@@ -1128,7 +1128,7 @@ Partial Class Facturacion
         Me.txtPrimaExenta.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtPrimaExenta.LabelText = "Prima Exenta"
         Me.txtPrimaExenta.LabelWidth = 100
-        Me.txtPrimaExenta.Location = New System.Drawing.Point(97, 372)
+        Me.txtPrimaExenta.Location = New System.Drawing.Point(100, 278)
         Me.txtPrimaExenta.MaxLength = 25
         Me.txtPrimaExenta.Name = "txtPrimaExenta"
         Me.txtPrimaExenta.NombreCampo = ""
@@ -1155,7 +1155,7 @@ Partial Class Facturacion
         Me.cboAtencionA.LabelText = "Atención a:"
         Me.cboAtencionA.LabelWidth = 75
         Me.cboAtencionA.Lista = ""
-        Me.cboAtencionA.Location = New System.Drawing.Point(408, 156)
+        Me.cboAtencionA.Location = New System.Drawing.Point(408, 162)
         Me.cboAtencionA.Name = "cboAtencionA"
         Me.cboAtencionA.NombreCampo = "IdContacto"
         Me.cboAtencionA.Obligatorio = False
@@ -1181,7 +1181,7 @@ Partial Class Facturacion
         Me.txtCuentaBancaria.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtCuentaBancaria.LabelText = "Cuenta Bancaria"
         Me.txtCuentaBancaria.LabelWidth = 125
-        Me.txtCuentaBancaria.Location = New System.Drawing.Point(12, 296)
+        Me.txtCuentaBancaria.Location = New System.Drawing.Point(712, 194)
         Me.txtCuentaBancaria.MaxLength = 25
         Me.txtCuentaBancaria.Name = "txtCuentaBancaria"
         Me.txtCuentaBancaria.NombreCampo = "CuentaBancaria"
@@ -1205,13 +1205,13 @@ Partial Class Facturacion
         Me.txtNombreCuentaHabiente.LabelOrietation = STIControles.stiTextBox.LOrientacion.Superior
         Me.txtNombreCuentaHabiente.LabelText = "Nombre CuentaHabiente"
         Me.txtNombreCuentaHabiente.LabelWidth = 125
-        Me.txtNombreCuentaHabiente.Location = New System.Drawing.Point(186, 296)
+        Me.txtNombreCuentaHabiente.Location = New System.Drawing.Point(888, 194)
         Me.txtNombreCuentaHabiente.MaxLength = 100
         Me.txtNombreCuentaHabiente.Name = "txtNombreCuentaHabiente"
         Me.txtNombreCuentaHabiente.NombreCampo = "IdAnexo"
         Me.txtNombreCuentaHabiente.Obligatorio = False
         Me.txtNombreCuentaHabiente.PassWordChar = Global.Microsoft.VisualBasic.ChrW(0)
-        Me.txtNombreCuentaHabiente.Size = New System.Drawing.Size(338, 36)
+        Me.txtNombreCuentaHabiente.Size = New System.Drawing.Size(162, 36)
         Me.txtNombreCuentaHabiente.SoloLectura = False
         Me.txtNombreCuentaHabiente.TabIndex = 17
         Me.txtNombreCuentaHabiente.TipoDato = STIControles.stiTextBox.TipoContenido.Texto
@@ -1227,19 +1227,19 @@ Partial Class Facturacion
         Me.cboIdBanco.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
         Me.cboIdBanco.ControlBackColor = System.Drawing.Color.White
         Me.cboIdBanco.ControlForeColor = System.Drawing.Color.Black
-        Me.cboIdBanco.FilasVisibles = 136000
+        Me.cboIdBanco.FilasVisibles = 97998352
         Me.cboIdBanco.LabelOrietation = STIControles.stiComboBox.LOrientacion.Superior
         Me.cboIdBanco.LabelText = "Banco"
         Me.cboIdBanco.LabelWidth = 125
         Me.cboIdBanco.Lista = ""
-        Me.cboIdBanco.Location = New System.Drawing.Point(528, 296)
+        Me.cboIdBanco.Location = New System.Drawing.Point(1060, 192)
         Me.cboIdBanco.MostrarBusquedaColumnas = False
         Me.cboIdBanco.Name = "cboIdBanco"
         Me.cboIdBanco.NombreCampo = "IdBanco"
         Me.cboIdBanco.Obligatorio = False
         Me.cboIdBanco.Query = "select IdBanco as Id, NombreBanco as Banco from Bancos"
         Me.cboIdBanco.SelectIndex = 0
-        Me.cboIdBanco.Size = New System.Drawing.Size(166, 38)
+        Me.cboIdBanco.Size = New System.Drawing.Size(212, 38)
         Me.cboIdBanco.SoloLectura = False
         Me.cboIdBanco.StringConection = ""
         Me.cboIdBanco.TabIndex = 18
@@ -1257,12 +1257,12 @@ Partial Class Facturacion
         Me.cboFlujo.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal
         Me.cboFlujo.ControlBackColor = System.Drawing.Color.White
         Me.cboFlujo.ControlForeColor = System.Drawing.Color.Black
-        Me.cboFlujo.FilasVisibles = 3166
+        Me.cboFlujo.FilasVisibles = 2281702
         Me.cboFlujo.LabelOrietation = STIControles.stiComboBox.LOrientacion.Izquierda
         Me.cboFlujo.LabelText = "Flujo Correspondencia"
         Me.cboFlujo.LabelWidth = 120
         Me.cboFlujo.Lista = ""
-        Me.cboFlujo.Location = New System.Drawing.Point(12, 156)
+        Me.cboFlujo.Location = New System.Drawing.Point(9, 162)
         Me.cboFlujo.MostrarBusquedaColumnas = True
         Me.cboFlujo.Name = "cboFlujo"
         Me.cboFlujo.NombreCampo = "IdFlujoDoc"
@@ -1281,7 +1281,7 @@ Partial Class Facturacion
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AyudaId = 305
-        Me.ClientSize = New System.Drawing.Size(725, 623)
+        Me.ClientSize = New System.Drawing.Size(1284, 581)
         Me.Controls.Add(Me.cboFlujo)
         Me.Controls.Add(Me.cboIdBanco)
         Me.Controls.Add(Me.txtNombreCuentaHabiente)

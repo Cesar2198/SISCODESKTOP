@@ -596,3 +596,7 @@ C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.V
 C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.Resources.resources
 C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\ControlSeguros.vbproj.GenerateResource.Cache
 C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\ControlSeguros\obj\Release\Sisco.exe.licenses
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\ControlSeguros\bin\Release\Sisco.exe.config
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\ControlSeguros\obj\Release\Sisco.exe
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\ControlSeguros\obj\Release\Sisco.xml
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\ControlSeguros\obj\Release\Sisco.pdb

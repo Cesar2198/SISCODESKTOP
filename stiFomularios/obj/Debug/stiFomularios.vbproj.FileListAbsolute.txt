@@ -54,3 +54,31 @@ C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Debug\Conectivid
 C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Debug\Conectividad.xml
 C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Debug\Utilerias.pdb
 C:\Users\Cesarr\Desktop\CD STI\CD STI\Fuentes\stiFomularios\bin\Debug\Utilerias.xml
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\stiFomularios.dll
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\stiFomularios.pdb
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\stiFomularios.xml
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\Conectividad.dll
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\STIControles.dll
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\Utilerias.dll
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\Interop.MSXML2.dll
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\STIControles.pdb
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\STIControles.xml
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\Conectividad.pdb
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\Conectividad.xml
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\Utilerias.pdb
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\bin\Debug\Utilerias.xml
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.Resources.resources
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.stiBuscarRegistro.resources
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.stiMantenimiento.resources
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.stiNavegador.resources
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.stiPersonalizaCampo.resources
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.stiPrincipal.resources
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.stiReporteador.resources
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.stiReportes.resources
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.vbproj.GenerateResource.Cache
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.dll.licenses
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.dll
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.xml
+C:\Users\Cesarr\Desktop\Proyectos\SISCODESKTOP\SISCODESKTOP\stiFomularios\obj\Debug\stiFomularios.pdb
